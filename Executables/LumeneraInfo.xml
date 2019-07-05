@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="utf-8"?>
+<camera>
+<index>1</index>
+<cameraInfo>
+	<cameraID>0x616</cameraID>
+	<serialNumber>14060169</serialNumber>
+	<HWinterface>USB3</HWinterface>
+	<HWrevision>0x2</HWrevision>
+	<API>2.1.1.84</API>
+	<FPGA>12.62</FPGA>
+	<Firmware>1.79</Firmware>
+	<Driver>5.2.12.246</Driver>
+	<PowerMode>not Supported</PowerMode>
+	<Exposure>16.611</Exposure>
+	<videoTap>quad</videoTap>
+	<snapshotTap>quad</snapshotTap>
+</cameraInfo>
+<format>
+	<width>2752</width>
+	<height>2192</height>
+	<X>0</X>
+	<Y>0</Y>
+	<SamplingX>1</SamplingX>
+	<SamplingY>1</SamplingY>
+	<BinningX>0</BinningX>
+	<BinningY>0</BinningY>
+	<pixelFormat>1</pixelFormat>
+	<frameRate>7.81973</frameRate>
+</format>
+<propListing>
+	<prop name = "0">
+		<value>0</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "1">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "2">
+		<value>0</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "3">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "4">
+		<value>4</value>
+		<flags>0</flags>
+		<error>22</error>
+	</prop>
+	<prop name = "5">
+		<value>1.5</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "16">
+		<value>16</value>
+		<flags>0</flags>
+		<error>22</error>
+	</prop>
+	<prop name = "17">
+		<value>17</value>
+		<flags>0</flags>
+		<error>22</error>
+	</prop>
+	<prop name = "18">
+		<value>18</value>
+		<flags>0</flags>
+		<error>22</error>
+	</prop>
+	<prop name = "19">
+		<value>19</value>
+		<flags>0</flags>
+		<error>22</error>
+	</prop>
+	<prop name = "20">
+		<value>16.611</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "21">
+		<value>22.6757</value>
+		<flags>0</flags>
+		<error>22</error>
+	</prop>
+	<prop name = "22">
+		<value>22</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "40">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "41">
+		<value>0.0100098</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "42">
+		<value>0.0102539</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "43">
+		<value>0.010498</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "44">
+		<value>0.0107422</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "41">
+		<value>0.0100098</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "42">
+		<value>0.0102539</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "43">
+		<value>0.010498</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "44">
+		<value>0.0107422</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "64">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "65">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "66">
+		<value>0</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "69">
+		<value>0</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "70">
+		<value>0</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "71">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "72">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "73">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "74">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "80">
+		<value>0</value>
+		<flags>-2147483648</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "81">
+		<value>2752</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "82">
+		<value>2192</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "83">
+		<value>16</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "84">
+		<value>8</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "85">
+		<value>85</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "86">
+		<value>52</value>
+		<flags>1073741824</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "96">
+		<value>0.096</value>
+		<flags>1073741824</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "96">
+		<value>0.096</value>
+		<flags>1073741824</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "97">
+		<value>0.097</value>
+		<flags>1073741824</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "97">
+		<value>0.097</value>
+		<flags>1073741824</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "98">
+		<value>0.098</value>
+		<flags>1073741824</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "99">
+		<value>99</value>
+		<flags>1073741824</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "99">
+		<value>99</value>
+		<flags>1073741824</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "101">
+		<value>101</value>
+		<flags>1073741824</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "103">
+		<value>152</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "105">
+		<value>0</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "106">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "107">
+		<value>200</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "108">
+		<value>42.625</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "110">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "110">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "112">
+		<value>112</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "113">
+		<value>83.589</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "114">
+		<value>2.7832</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "115">
+		<value>115</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "116">
+		<value>0.081</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "118">
+		<value>118</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "119">
+		<value>119</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "120">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "121">
+		<value>121</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "122">
+		<value>122</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "123">
+		<value>0.660982</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "124">
+		<value>124</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "125">
+		<value>125</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "126">
+		<value>2</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "163">
+		<value>163</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "165">
+		<value>165</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "166">
+		<value>166</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "167">
+		<value>-272.833</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "168">
+		<value>168</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "169">
+		<value>169</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "170">
+		<value>0.0415039</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "172">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "173">
+		<value>0</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "174">
+		<value>174</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "175">
+		<value>0.175</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "176">
+		<value>4</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "177">
+		<value>4</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "256">
+		<value>75</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "50">
+		<value>16.666</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "51">
+		<value>1</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "52">
+		<value>0.0126953</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "53">
+		<value>0.0129395</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "54">
+		<value>0.0131836</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "55">
+		<value>0.0134277</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "52">
+		<value>0.0126953</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "53">
+		<value>0.0129395</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "54">
+		<value>0.0131836</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "55">
+		<value>0.0134277</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "56">
+		<value>0</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "100">
+		<value>0</value>
+		<flags>0</flags>
+		<error>0</error>
+	</prop>
+	<prop name = "512">
+		<value>512</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "513">
+		<value>513</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "514">
+		<value>514</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "515">
+		<value>7.21669e-043</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "516">
+		<value>7.2307e-043</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "517">
+		<value>7.24471e-043</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+	<prop name = "518">
+		<value>518</value>
+		<flags>0</flags>
+		<error>21</error>
+	</prop>
+</propListing>
+</camera>

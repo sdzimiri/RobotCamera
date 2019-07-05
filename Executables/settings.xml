@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<doc>
+	<StreamType>1</StreamType> 	            <!-- Stream type selection. should be one of listed [0 for VIDEO, 1 for STILL] -->
+    <hwInterface>USB</hwInterface>          <!-- Camera hardware interface [GIGE,USB].-->
+	<camIndex>1</camIndex>  			    <!-- Camera index.  If only one camera then index should be one.-->
+	<fileBase>e:\image </fileBase> 			<!-- base of file name to save images -->
+	<fileType>tiff</fileType> 			    <!-- type of file to save, raw for no conversion, bmp for rgb24, jpg and tiff -->
+    <sequentialImage>false</sequentialImage><!-- true to use sequential image.  if false will use image received in host counter. -->
+	<nbFrames>5</nbFrames>			        <!-- Number of frame to capture. -1 for infinite. -->
+	<saveToFile>true</saveToFile> 		    <!-- Enable/disable save to file. If disable, will save last image to file.[true/false] -->
+	<trigger>sw</trigger> 				    <!-- sw for software or hw for hardware. -->
+    <burst>1</burst>                        <!-- Number of frame to capture in burst mode.  Please note not all camera support burst mode and # of support burst will also depend on camera model.-->
+	<clock>0</clock> 					    <!-- Still clock to use 0 is fastest. -->
+	<tap>4</tap> 						    <!-- for camera that has multi-tap 0 single, 1 dual 4- quad-->
+	<exposure>35</exposure> 				    <!-- exposure in ms. -->
+	<gain>1.5</gain> 					    <!-- Analog gain. -->
+	<width>3376</width> 				    <!-- Image width. -->
+	<height>2704</height> 				    <!-- Image height. -->
+	<x>0</x>							    <!-- Offset in the width axis.  If using full sensor width then should be 0.-->
+	<y>0</y>							    <!-- Offset in the height axis.  If using full sensor height then should be 0.-->
+	<sampling>1</sampling> 				    <!-- sub sampling factor. -->
+	<binning>false</binning> 			    <!-- Enable/disable binning [true/false]. -->
+	<bit>16</bit> 						    <!-- 8 or 16 bit images. -->
+    <demosaicing>FAST</demosaicing>		    <!-- Method used for color conversion [NONE, FAST, HIGH, HIGHER, SIMPLE] -->
+    <ccm>NONE </ccm> 						<!-- Color correction matrix applied at color conversion [NONE, FLUORESCENT, DAYLIGHT, INCANDESCENT, XENON, HALOGEN, LED, IDENTITY]-->
+    <timeout>2000</timeout> 				<!-- Snapshot timeout in ms.-->
+    <ImageGrabDelay>0</ImageGrabDelay> 	    <!-- Delay in the image grab loop.  This could simulate image processing.  express in ms.-->
+    <exposureDelay>0</exposureDelay>        <!-- exposure delay express in us.-->
+    <useStrobe>0</useStrobe>                <!-- Using strobe flag [0-disable,1-enable]-->
+    <strobeDelay>0</strobeDelay>            <!-- Strobe delay express in us.-->
+    <frameRate>-1</frameRate>               <!-- to control frame rate in video mode.  if -1 then max frame rate.-->
+</doc>
+                          

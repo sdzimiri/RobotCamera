@@ -1,0 +1,6131 @@
+[Version]
+Signature="$CHICAGO$"
+Class=Image
+ClassGUID={6bdd1fc6-810f-11d0-bec7-08002be2092f}
+Provider=%Lumenera%
+LayoutFile=Layout.inf,Layout1.inf,Layout2.inf
+CatalogFile=lucamusb.cat
+DriverVer=02/13/2018
+
+[Manufacturer]
+%Lumenera%=Lumenera,NTamd64
+%LumeneraScientific%=LumeneraScientific,NTamd64
+
+[Lumenera]
+%USB\VID_1724&PID_8092.DeviceDesc%=luldr092, USB\VID_1724&PID_8092
+%USB\VID_1724&PID_8092.DeviceDesc%=luldr092, USB\VID_5354&PID_8092
+%USB\VID_1724&PID_8097.DeviceDesc%=luldr097, USB\VID_1724&PID_8097
+%USB\VID_1724&PID_8097.DeviceDesc%=luldr097, USB\VID_1724&PID_809C
+%USB\VID_1724&PID_8097.DeviceDesc%=luldr097, USB\VID_5354&PID_8097
+%USB\VID_1724&PID_8097.DeviceDesc%=luldr097, USB\VID_5354&PID_809C
+%USB\VID_1724&PID_8096.DeviceDesc%=luldr096, USB\VID_1724&PID_8096
+%USB\VID_1724&PID_8096.DeviceDesc%=luldr096, USB\VID_5354&PID_8096
+%USB\VID_1724&PID_809e.DeviceDesc%=luldr09e, USB\VID_1724&PID_809e
+%USB\VID_1724&PID_809e.DeviceDesc%=luldr09e, USB\VID_5354&PID_809e
+%USB\VID_1724&PID_808d.DeviceDesc%=luldr08d, USB\VID_1724&PID_808d
+%USB\VID_1724&PID_808d.DeviceDesc%=luldr08d, USB\VID_5354&PID_808d
+%USB\VID_1724&PID_808b.DeviceDesc%=luldr08b, USB\VID_1724&PID_808b
+%USB\VID_1724&PID_808b.DeviceDesc%=luldr08b, USB\VID_5354&PID_808b
+%USB\VID_1724&PID_8085.DeviceDesc%=luldr085, USB\VID_1724&PID_8085
+%USB\VID_1724&PID_8085.DeviceDesc%=luldr085, USB\VID_5354&PID_8085
+%USB\VID_1724&PID_809A.DeviceDesc%=luldr09a, USB\VID_1724&PID_809A
+%USB\VID_1724&PID_809A.DeviceDesc%=luldr09a, USB\VID_5354&PID_809A
+%USB\VID_1724&PID_808C.DeviceDesc%=luldr08c, USB\VID_1724&PID_808C
+%USB\VID_1724&PID_808C.DeviceDesc%=luldr08c, USB\VID_5354&PID_808C
+%USB\VID_1724&PID_808a.DeviceDesc%=luldr08a, USB\VID_1724&PID_808a
+%USB\VID_1724&PID_808a.DeviceDesc%=luldr08a, USB\VID_5354&PID_808a
+%USB\VID_1724&PID_809B.DeviceDesc%=luldr09b, USB\VID_1724&PID_809B
+%USB\VID_1724&PID_809B.DeviceDesc%=luldr09b, USB\VID_5354&PID_809B
+%USB\VID_1724&PID_8091.DeviceDesc%=luldr091, USB\VID_1724&PID_8091
+%USB\VID_1724&PID_8091.DeviceDesc%=luldr091, USB\VID_5354&PID_8091
+%USB\VID_1724&PID_8186.DeviceDesc%=lwldr186, USB\VID_1724&PID_8186
+%USB\VID_1724&PID_818a.DeviceDesc%=lwldr18a, USB\VID_1724&PID_818a
+%USB\VID_1724&PID_819a.DeviceDesc%=lwldr19a, USB\VID_1724&PID_819a
+%USB\VID_1724&PID_818c.DeviceDesc%=lwldr18c, USB\VID_1724&PID_818c
+%USB\VID_1724&PID_819B.DeviceDesc%=lwldr19b, USB\VID_1724&PID_819B
+%USB\VID_1724&PID_8180.DeviceDesc%=lwldr180, USB\VID_1724&PID_8180
+%USB\VID_1724&PID_81cd.DeviceDesc%=lwldr1cd, USB\VID_1724&PID_81cd
+%USB\VID_1724&PID_81c8.DeviceDesc%=lwldr1c8, USB\VID_1724&PID_81c8
+%USB\VID_1724&PID_81c7.DeviceDesc%=lwldr1c7, USB\VID_1724&PID_81c7
+%USB\VID_1724&PID_8284.DeviceDesc%=lmldr284, USB\VID_1724&PID_8284
+%USB\VID_1724&PID_828c.DeviceDesc%=lmldr28c, USB\VID_1724&PID_828c
+%USB\VID_1724&PID_829a.DeviceDesc%=lmldr29a, USB\VID_1724&PID_829a
+%USB\VID_1724&PID_828a.DeviceDesc%=lmldr28a, USB\VID_1724&PID_828a
+%USB\VID_1724&PID_8384.DeviceDesc%=lcldr384, USB\VID_1724&PID_8384
+%USB\VID_1724&PID_839e.DeviceDesc%=lcldr39e, USB\VID_1724&PID_839e
+%USB\VID_1724&PID_838d.DeviceDesc%=lcldr38d, USB\VID_1724&PID_838d
+%USB\VID_1724&PID_838b.DeviceDesc%=lcldr38b, USB\VID_1724&PID_838b
+%USB\VID_1724&PID_81c5.DeviceDesc%=lwldr1c5, USB\VID_1724&PID_81c5
+%USB\VID_1724&PID_8099.DeviceDesc%=luldr099, USB\VID_1724&PID_8099
+%USB\VID_1724&PID_8099.DeviceDesc%=luldr099, USB\VID_5354&PID_8099
+%USB\VID_1724&PID_81c9.DeviceDesc%=lwldr1c9, USB\VID_1724&PID_81c9
+%USB\VID_1724&PID_849f.DeviceDesc%=lwldr49f, USB\VID_1724&PID_849f
+%USB\VID_1724&PID_84ce.DeviceDesc%=lwldr4ce, USB\VID_1724&PID_84ce
+%USB\VID_1724&PID_82c8.DeviceDesc%=lmldr2c8, USB\VID_1724&PID_82c8
+%USB\VID_1724&PID_8196.DeviceDesc%=lwldr196, USB\VID_1724&PID_8196
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0600
+%USB\VID_1724&PID_0604.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0604
+%USB\VID_1724&PID_0602.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0602
+%USB\VID_1724&PID_0613&REV_0004.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0613&REV_0004
+%USB\VID_1724&PID_0613.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0613
+%USB\VID_1724&PID_0616.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0616
+%USB\VID_1724&PID_0619.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0619
+%USB\VID_1724&PID_061c.DeviceDesc%=ltcamusb,USB\VID_1724&PID_061c
+%USB\VID_1724&PID_0630.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0630
+%USB\VID_1724&PID_0631.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0631
+%USB\VID_1724&PID_0645.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0645
+%USB\VID_1724&PID_0643.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0643
+%USB\VID_1724&PID_0649.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0649
+%USB\VID_1724&PID_064c.DeviceDesc%=ltcamusb,USB\VID_1724&PID_064c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0601
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0603
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0605
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0606
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0607
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0608
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0609
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_060a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_060b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_060c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_060d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_060e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_060f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0610
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0611
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0612
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0614
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0615
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0617
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0618
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_061a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_061b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_061d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_061e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_061f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0620
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0621
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0622
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0623
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0624
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0625
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0626
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0627
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0628
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0629
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_062a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_062b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_062c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_062d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_062e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_062f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0632
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0633
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0634
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0635
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0636
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0637
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0638
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0639
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_063a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_063b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_063c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_063d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_063e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_063f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0640
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0641
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0642
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0644
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0646
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0647
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0648
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_064a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_064b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_064d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_064e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_064f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0650
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0651
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0652
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0653
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0654
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0655
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0656
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0657
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0658
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0659
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_065a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_065b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_065c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_065d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_065e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_065f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0660
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0661
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0662
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0663
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0664
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0665
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0666
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0667
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0668
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0669
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_066a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_066b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_066c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_066d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_066e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_066f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0670
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0671
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0672
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0673
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0674
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0675
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0676
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0677
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0678
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0679
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_067a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_067b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_067c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_067d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_067e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_067f
+%USB\VID_1724&PID_0092.DeviceDesc%=lucam092,USB\VID_1724&PID_0092
+%USB\VID_1724&PID_0092.DeviceDesc%=lucam092,USB\VID_5354&PID_0092
+%USB\VID_1724&PID_0097.DeviceDesc%=lucam097,USB\VID_1724&PID_0097
+%USB\VID_1724&PID_0097.DeviceDesc%=lucam097,USB\VID_5354&PID_0097
+%USB\VID_1724&PID_0096.DeviceDesc%=lucam096,USB\VID_1724&PID_0096
+%USB\VID_1724&PID_0096.DeviceDesc%=lucam096,USB\VID_5354&PID_0096
+%USB\VID_1724&PID_009e.DeviceDesc%=lucam09e,USB\VID_1724&PID_009e
+%USB\VID_1724&PID_009e.DeviceDesc%=lucam09e,USB\VID_5354&PID_009e
+%USB\VID_1724&PID_008d.DeviceDesc%=lucam08d,USB\VID_1724&PID_008d
+%USB\VID_1724&PID_008d.DeviceDesc%=lucam08d,USB\VID_5354&PID_008d
+%USB\VID_1724&PID_008b.DeviceDesc%=lucam08b,USB\VID_1724&PID_008b
+%USB\VID_1724&PID_008b.DeviceDesc%=lucam08b,USB\VID_5354&PID_008b
+%USB\VID_1724&PID_0085.DeviceDesc%=lucam085,USB\VID_1724&PID_0085
+%USB\VID_1724&PID_0085.DeviceDesc%=lucam085,USB\VID_5354&PID_0085
+%USB\VID_1724&PID_009a.DeviceDesc%=lucam09a,USB\VID_1724&PID_009A
+%USB\VID_1724&PID_009a.DeviceDesc%=lucam09a,USB\VID_5354&PID_009A
+%USB\VID_1724&PID_008c.DeviceDesc%=lucam08c,USB\VID_1724&PID_008c
+%USB\VID_1724&PID_008c.DeviceDesc%=lucam08c,USB\VID_5354&PID_008c
+%USB\VID_1724&PID_008a.DeviceDesc%=lucam08a,USB\VID_1724&PID_008a
+%USB\VID_1724&PID_008a.DeviceDesc%=lucam08a,USB\VID_5354&PID_008a
+%USB\VID_1724&PID_009b.DeviceDesc%=lucam09b,USB\VID_1724&PID_009B
+%USB\VID_1724&PID_009b.DeviceDesc%=lucam09b,USB\VID_5354&PID_009B
+%USB\VID_1724&PID_0091.DeviceDesc%=lucam091,USB\VID_1724&PID_0091
+%USB\VID_1724&PID_0091.DeviceDesc%=lucam091,USB\VID_5354&PID_0091
+%USB\VID_1724&PID_0186.DeviceDesc%=lwcam186,USB\VID_1724&PID_0186
+%USB\VID_1724&PID_018a.DeviceDesc%=lwcam18a,USB\VID_1724&PID_018a
+%USB\VID_1724&PID_019a.DeviceDesc%=lwcam19a,USB\VID_1724&PID_019A
+%USB\VID_1724&PID_018c.DeviceDesc%=lwcam18c,USB\VID_1724&PID_018c
+%USB\VID_1724&PID_019b.DeviceDesc%=lwcam19b,USB\VID_1724&PID_019B
+%USB\VID_1724&PID_0180.DeviceDesc%=lwcam180,USB\VID_1724&PID_0180
+%USB\VID_1724&PID_01cd.DeviceDesc%=lwcam1cd,USB\VID_1724&PID_01cd
+%USB\VID_1724&PID_01c8.DeviceDesc%=lwcam1c8,USB\VID_1724&PID_01c8
+%USB\VID_1724&PID_01c7.DeviceDesc%=lwcam1c7,USB\VID_1724&PID_01c7
+%USB\VID_1724&PID_0284.DeviceDesc%=lmcam284,USB\VID_1724&PID_0284
+%USB\VID_1724&PID_028c.DeviceDesc%=lmcam28c,USB\VID_1724&PID_028c
+%USB\VID_1724&PID_029a.DeviceDesc%=lmcam29a,USB\VID_1724&PID_029A
+%USB\VID_1724&PID_028a.DeviceDesc%=lmcam28a,USB\VID_1724&PID_028a
+%USB\VID_1724&PID_0384.DeviceDesc%=lccam384,USB\VID_1724&PID_0384
+%USB\VID_1724&PID_039e.DeviceDesc%=lccam39e,USB\VID_1724&PID_039e
+%USB\VID_1724&PID_038d.DeviceDesc%=lccam38d,USB\VID_1724&PID_038d
+%USB\VID_1724&PID_038b.DeviceDesc%=lccam38b,USB\VID_1724&PID_038b
+%USB\VID_1724&PID_01c5.DeviceDesc%=lwcam1c5,USB\VID_1724&PID_01c5
+%USB\VID_1724&PID_0099.DeviceDesc%=lucam099,USB\VID_1724&PID_0099
+%USB\VID_1724&PID_0099.DeviceDesc%=lucam099,USB\VID_5354&PID_0099
+%USB\VID_1724&PID_01c9.DeviceDesc%=lwcam1c9,USB\VID_1724&PID_01c9
+%USB\VID_1724&PID_049f.DeviceDesc%=lwcam49f,USB\VID_1724&PID_049f
+%USB\VID_1724&PID_04ce.DeviceDesc%=lwcam4ce,USB\VID_1724&PID_04ce
+%USB\VID_1724&PID_02c8.DeviceDesc%=lmcam2c8,USB\VID_1724&PID_02c8
+%USB\VID_1724&PID_0196.DeviceDesc%=lwcam196,USB\VID_1724&PID_0196
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1600&MI_00
+%USB\VID_1724&PID_1602.Desc% =Luwinusb, USB\VID_1724&PID_1602&MI_00
+%USB\VID_1724&PID_1604.Desc% =Luwinusb, USB\VID_1724&PID_1604&MI_00
+%USB\VID_1724&PID_1613.Desc% =Luwinusb, USB\VID_1724&PID_1613&MI_00
+%USB\VID_1724&PID_1616.Desc% =Luwinusb, USB\VID_1724&PID_1616&MI_00
+%USB\VID_1724&PID_1619.Desc% =Luwinusb, USB\VID_1724&PID_1619&MI_00
+%USB\VID_1724&PID_161c.Desc% =Luwinusb, USB\VID_1724&PID_161c&MI_00
+%USB\VID_1724&PID_1630.Desc% =Luwinusb, USB\VID_1724&PID_1630&MI_00
+%USB\VID_1724&PID_1631.Desc% =Luwinusb, USB\VID_1724&PID_1631&MI_00
+%USB\VID_1724&PID_1643.Desc% =Luwinusb, USB\VID_1724&PID_1643&MI_00
+%USB\VID_1724&PID_1645.Desc% =Luwinusb, USB\VID_1724&PID_1645&MI_00
+%USB\VID_1724&PID_1649.Desc% =Luwinusb, USB\VID_1724&PID_1649&MI_00
+%USB\VID_1724&PID_164c.Desc% =Luwinusb, USB\VID_1724&PID_164c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1601&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1603&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1605&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1606&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1607&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1608&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1609&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_160a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_160b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_160c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_160d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_160e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_160f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1610&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1611&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1612&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1614&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1615&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1617&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1618&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_161a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_161b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_161c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_161d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_161e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_161f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1620&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1621&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1622&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1623&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1624&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1625&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1626&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1627&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1628&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1629&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_162a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_162b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_162c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_162d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_162e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_162f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1632&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1633&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1634&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1635&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1636&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1637&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1638&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1639&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_163a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_163b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_163c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_163d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_163e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_163f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1640&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1641&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1642&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1644&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1646&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1647&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1648&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_164a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_164b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_164d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_164e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_164f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1650&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1651&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1652&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1653&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1654&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1655&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1656&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1657&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1658&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1659&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_165a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_165b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_165c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_165d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_165e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_165f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1660&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1661&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1662&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1663&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1664&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1665&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1666&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1667&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1668&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1669&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_166a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_166b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_166c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_166d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_166e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_166f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1670&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1671&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1672&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1673&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1674&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1675&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1676&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1677&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1678&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1679&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_167a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_167b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_167c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_167d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_167e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_167f&MI_00
+
+[Lumenera.NTamd64]
+%USB\VID_1724&PID_8092.DeviceDesc%=luldr092, USB\VID_1724&PID_8092
+%USB\VID_1724&PID_8092.DeviceDesc%=luldr092, USB\VID_5354&PID_8092
+%USB\VID_1724&PID_8097.DeviceDesc%=luldr097, USB\VID_1724&PID_8097
+%USB\VID_1724&PID_8097.DeviceDesc%=luldr097, USB\VID_1724&PID_809C
+%USB\VID_1724&PID_8097.DeviceDesc%=luldr097, USB\VID_5354&PID_8097
+%USB\VID_1724&PID_8097.DeviceDesc%=luldr097, USB\VID_5354&PID_809C
+%USB\VID_1724&PID_8096.DeviceDesc%=luldr096, USB\VID_1724&PID_8096
+%USB\VID_1724&PID_8096.DeviceDesc%=luldr096, USB\VID_5354&PID_8096
+%USB\VID_1724&PID_809e.DeviceDesc%=luldr09e, USB\VID_1724&PID_809e
+%USB\VID_1724&PID_809e.DeviceDesc%=luldr09e, USB\VID_5354&PID_809e
+%USB\VID_1724&PID_808d.DeviceDesc%=luldr08d, USB\VID_1724&PID_808d
+%USB\VID_1724&PID_808d.DeviceDesc%=luldr08d, USB\VID_5354&PID_808d
+%USB\VID_1724&PID_808b.DeviceDesc%=luldr08b, USB\VID_1724&PID_808b
+%USB\VID_1724&PID_808b.DeviceDesc%=luldr08b, USB\VID_5354&PID_808b
+%USB\VID_1724&PID_8085.DeviceDesc%=luldr085, USB\VID_1724&PID_8085
+%USB\VID_1724&PID_8085.DeviceDesc%=luldr085, USB\VID_5354&PID_8085
+%USB\VID_1724&PID_809A.DeviceDesc%=luldr09a, USB\VID_1724&PID_809A
+%USB\VID_1724&PID_809A.DeviceDesc%=luldr09a, USB\VID_5354&PID_809A
+%USB\VID_1724&PID_808C.DeviceDesc%=luldr08c, USB\VID_1724&PID_808C
+%USB\VID_1724&PID_808C.DeviceDesc%=luldr08c, USB\VID_5354&PID_808C
+%USB\VID_1724&PID_808a.DeviceDesc%=luldr08a, USB\VID_1724&PID_808a
+%USB\VID_1724&PID_808a.DeviceDesc%=luldr08a, USB\VID_5354&PID_808a
+%USB\VID_1724&PID_809B.DeviceDesc%=luldr09b, USB\VID_1724&PID_809B
+%USB\VID_1724&PID_809B.DeviceDesc%=luldr09b, USB\VID_5354&PID_809B
+%USB\VID_1724&PID_8091.DeviceDesc%=luldr091, USB\VID_1724&PID_8091
+%USB\VID_1724&PID_8091.DeviceDesc%=luldr091, USB\VID_5354&PID_8091
+%USB\VID_1724&PID_8186.DeviceDesc%=lwldr186, USB\VID_1724&PID_8186
+%USB\VID_1724&PID_818a.DeviceDesc%=lwldr18a, USB\VID_1724&PID_818a
+%USB\VID_1724&PID_819a.DeviceDesc%=lwldr19a, USB\VID_1724&PID_819a
+%USB\VID_1724&PID_818c.DeviceDesc%=lwldr18c, USB\VID_1724&PID_818c
+%USB\VID_1724&PID_819B.DeviceDesc%=lwldr19b, USB\VID_1724&PID_819B
+%USB\VID_1724&PID_8180.DeviceDesc%=lwldr180, USB\VID_1724&PID_8180
+%USB\VID_1724&PID_81cd.DeviceDesc%=lwldr1cd, USB\VID_1724&PID_81cd
+%USB\VID_1724&PID_81c8.DeviceDesc%=lwldr1c8, USB\VID_1724&PID_81c8
+%USB\VID_1724&PID_81c7.DeviceDesc%=lwldr1c7, USB\VID_1724&PID_81c7
+%USB\VID_1724&PID_8284.DeviceDesc%=lmldr284, USB\VID_1724&PID_8284
+%USB\VID_1724&PID_828c.DeviceDesc%=lmldr28c, USB\VID_1724&PID_828c
+%USB\VID_1724&PID_829a.DeviceDesc%=lmldr29a, USB\VID_1724&PID_829a
+%USB\VID_1724&PID_828a.DeviceDesc%=lmldr28a, USB\VID_1724&PID_828a
+%USB\VID_1724&PID_8384.DeviceDesc%=lcldr384, USB\VID_1724&PID_8384
+%USB\VID_1724&PID_839e.DeviceDesc%=lcldr39e, USB\VID_1724&PID_839e
+%USB\VID_1724&PID_838d.DeviceDesc%=lcldr38d, USB\VID_1724&PID_838d
+%USB\VID_1724&PID_838b.DeviceDesc%=lcldr38b, USB\VID_1724&PID_838b
+%USB\VID_1724&PID_81c5.DeviceDesc%=lwldr1c5, USB\VID_1724&PID_81c5
+%USB\VID_1724&PID_8099.DeviceDesc%=luldr099, USB\VID_1724&PID_8099
+%USB\VID_1724&PID_8099.DeviceDesc%=luldr099, USB\VID_5354&PID_8099
+%USB\VID_1724&PID_81c9.DeviceDesc%=lwldr1c9, USB\VID_1724&PID_81c9
+%USB\VID_1724&PID_849f.DeviceDesc%=lwldr49f, USB\VID_1724&PID_849f
+%USB\VID_1724&PID_84ce.DeviceDesc%=lwldr4ce, USB\VID_1724&PID_84ce
+%USB\VID_1724&PID_82c8.DeviceDesc%=lmldr2c8, USB\VID_1724&PID_82c8
+%USB\VID_1724&PID_8196.DeviceDesc%=lwldr196, USB\VID_1724&PID_8196
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0600
+%USB\VID_1724&PID_0604.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0604
+%USB\VID_1724&PID_0602.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0602
+%USB\VID_1724&PID_0613&REV_0004.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0613&REV_0004
+%USB\VID_1724&PID_0613.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0613
+%USB\VID_1724&PID_0616.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0616
+%USB\VID_1724&PID_0619.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0619
+%USB\VID_1724&PID_061c.DeviceDesc%=ltcamusb,USB\VID_1724&PID_061c
+%USB\VID_1724&PID_0630.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0630
+%USB\VID_1724&PID_0631.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0631
+%USB\VID_1724&PID_0645.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0645
+%USB\VID_1724&PID_0643.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0643
+%USB\VID_1724&PID_0649.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0649
+%USB\VID_1724&PID_064c.DeviceDesc%=ltcamusb,USB\VID_1724&PID_064c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0601
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0603
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0605
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0606
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0607
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0608
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0609
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_060a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_060b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_060c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_060d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_060e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_060f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0610
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0611
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0612
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0614
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0615
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0617
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0618
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_061a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_061b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_061d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_061e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_061f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0620
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0621
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0622
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0623
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0624
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0625
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0626
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0627
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0628
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0629
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_062a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_062b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_062c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_062d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_062e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_062f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0632
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0633
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0634
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0635
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0636
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0637
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0638
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0639
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_063a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_063b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_063c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_063d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_063e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_063f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0640
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0641
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0642
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0644
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0646
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0647
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0648
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_064a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_064b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_064d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_064e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_064f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0650
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0651
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0652
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0653
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0654
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0655
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0656
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0657
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0658
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0659
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_065a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_065b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_065c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_065d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_065e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_065f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0660
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0661
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0662
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0663
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0664
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0665
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0666
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0667
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0668
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0669
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_066a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_066b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_066c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_066d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_066e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_066f
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0670
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0671
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0672
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0673
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0674
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0675
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0676
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0677
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0678
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0679
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_067a
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_067b
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_067c
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_067d
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_067e
+%USB\LumeneraGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_067f
+%USB\VID_1724&PID_0092.DeviceDesc%=lucam092,USB\VID_1724&PID_0092
+%USB\VID_1724&PID_0092.DeviceDesc%=lucam092,USB\VID_5354&PID_0092
+%USB\VID_1724&PID_0097.DeviceDesc%=lucam097,USB\VID_1724&PID_0097
+%USB\VID_1724&PID_0097.DeviceDesc%=lucam097,USB\VID_5354&PID_0097
+%USB\VID_1724&PID_0096.DeviceDesc%=lucam096,USB\VID_1724&PID_0096
+%USB\VID_1724&PID_0096.DeviceDesc%=lucam096,USB\VID_5354&PID_0096
+%USB\VID_1724&PID_009e.DeviceDesc%=lucam09e,USB\VID_1724&PID_009e
+%USB\VID_1724&PID_009e.DeviceDesc%=lucam09e,USB\VID_5354&PID_009e
+%USB\VID_1724&PID_008d.DeviceDesc%=lucam08d,USB\VID_1724&PID_008d
+%USB\VID_1724&PID_008d.DeviceDesc%=lucam08d,USB\VID_5354&PID_008d
+%USB\VID_1724&PID_008b.DeviceDesc%=lucam08b,USB\VID_1724&PID_008b
+%USB\VID_1724&PID_008b.DeviceDesc%=lucam08b,USB\VID_5354&PID_008b
+%USB\VID_1724&PID_0085.DeviceDesc%=lucam085,USB\VID_1724&PID_0085
+%USB\VID_1724&PID_0085.DeviceDesc%=lucam085,USB\VID_5354&PID_0085
+%USB\VID_1724&PID_009a.DeviceDesc%=lucam09a,USB\VID_1724&PID_009A
+%USB\VID_1724&PID_009a.DeviceDesc%=lucam09a,USB\VID_5354&PID_009A
+%USB\VID_1724&PID_008c.DeviceDesc%=lucam08c,USB\VID_1724&PID_008c
+%USB\VID_1724&PID_008c.DeviceDesc%=lucam08c,USB\VID_5354&PID_008c
+%USB\VID_1724&PID_008a.DeviceDesc%=lucam08a,USB\VID_1724&PID_008a
+%USB\VID_1724&PID_008a.DeviceDesc%=lucam08a,USB\VID_5354&PID_008a
+%USB\VID_1724&PID_009b.DeviceDesc%=lucam09b,USB\VID_1724&PID_009B
+%USB\VID_1724&PID_009b.DeviceDesc%=lucam09b,USB\VID_5354&PID_009B
+%USB\VID_1724&PID_0091.DeviceDesc%=lucam091,USB\VID_1724&PID_0091
+%USB\VID_1724&PID_0091.DeviceDesc%=lucam091,USB\VID_5354&PID_0091
+%USB\VID_1724&PID_0186.DeviceDesc%=lwcam186,USB\VID_1724&PID_0186
+%USB\VID_1724&PID_018a.DeviceDesc%=lwcam18a,USB\VID_1724&PID_018a
+%USB\VID_1724&PID_019a.DeviceDesc%=lwcam19a,USB\VID_1724&PID_019A
+%USB\VID_1724&PID_018c.DeviceDesc%=lwcam18c,USB\VID_1724&PID_018c
+%USB\VID_1724&PID_019b.DeviceDesc%=lwcam19b,USB\VID_1724&PID_019B
+%USB\VID_1724&PID_0180.DeviceDesc%=lwcam180,USB\VID_1724&PID_0180
+%USB\VID_1724&PID_01cd.DeviceDesc%=lwcam1cd,USB\VID_1724&PID_01cd
+%USB\VID_1724&PID_01c8.DeviceDesc%=lwcam1c8,USB\VID_1724&PID_01c8
+%USB\VID_1724&PID_01c7.DeviceDesc%=lwcam1c7,USB\VID_1724&PID_01c7
+%USB\VID_1724&PID_0284.DeviceDesc%=lmcam284,USB\VID_1724&PID_0284
+%USB\VID_1724&PID_028c.DeviceDesc%=lmcam28c,USB\VID_1724&PID_028c
+%USB\VID_1724&PID_029a.DeviceDesc%=lmcam29a,USB\VID_1724&PID_029A
+%USB\VID_1724&PID_028a.DeviceDesc%=lmcam28a,USB\VID_1724&PID_028a
+%USB\VID_1724&PID_0384.DeviceDesc%=lccam384,USB\VID_1724&PID_0384
+%USB\VID_1724&PID_039e.DeviceDesc%=lccam39e,USB\VID_1724&PID_039e
+%USB\VID_1724&PID_038d.DeviceDesc%=lccam38d,USB\VID_1724&PID_038d
+%USB\VID_1724&PID_038b.DeviceDesc%=lccam38b,USB\VID_1724&PID_038b
+%USB\VID_1724&PID_01c5.DeviceDesc%=lwcam1c5,USB\VID_1724&PID_01c5
+%USB\VID_1724&PID_0099.DeviceDesc%=lucam099,USB\VID_1724&PID_0099
+%USB\VID_1724&PID_0099.DeviceDesc%=lucam099,USB\VID_5354&PID_0099
+%USB\VID_1724&PID_01c9.DeviceDesc%=lwcam1c9,USB\VID_1724&PID_01c9
+%USB\VID_1724&PID_049f.DeviceDesc%=lwcam49f,USB\VID_1724&PID_049f
+%USB\VID_1724&PID_04ce.DeviceDesc%=lwcam4ce,USB\VID_1724&PID_04ce
+%USB\VID_1724&PID_02c8.DeviceDesc%=lmcam2c8,USB\VID_1724&PID_02c8
+%USB\VID_1724&PID_0196.DeviceDesc%=lwcam196,USB\VID_1724&PID_0196
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1600&MI_00
+%USB\VID_1724&PID_1602.Desc% =Luwinusb, USB\VID_1724&PID_1602&MI_00
+%USB\VID_1724&PID_1604.Desc% =Luwinusb, USB\VID_1724&PID_1604&MI_00
+%USB\VID_1724&PID_1613.Desc% =Luwinusb, USB\VID_1724&PID_1613&MI_00
+%USB\VID_1724&PID_1616.Desc% =Luwinusb, USB\VID_1724&PID_1616&MI_00
+%USB\VID_1724&PID_1619.Desc% =Luwinusb, USB\VID_1724&PID_1619&MI_00
+%USB\VID_1724&PID_161c.Desc% =Luwinusb, USB\VID_1724&PID_161c&MI_00
+%USB\VID_1724&PID_1630.Desc% =Luwinusb, USB\VID_1724&PID_1630&MI_00
+%USB\VID_1724&PID_1631.Desc% =Luwinusb, USB\VID_1724&PID_1631&MI_00
+%USB\VID_1724&PID_1643.Desc% =Luwinusb, USB\VID_1724&PID_1643&MI_00
+%USB\VID_1724&PID_1645.Desc% =Luwinusb, USB\VID_1724&PID_1645&MI_00
+%USB\VID_1724&PID_1649.Desc% =Luwinusb, USB\VID_1724&PID_1649&MI_00
+%USB\VID_1724&PID_164c.Desc% =Luwinusb, USB\VID_1724&PID_164c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1601&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1603&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1605&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1606&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1607&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1608&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1609&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_160a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_160b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_160c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_160d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_160e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_160f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1610&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1611&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1612&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1614&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1615&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1617&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1618&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_161a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_161b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_161c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_161d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_161e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_161f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1620&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1621&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1622&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1623&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1624&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1625&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1626&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1627&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1628&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1629&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_162a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_162b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_162c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_162d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_162e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_162f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1632&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1633&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1634&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1635&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1636&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1637&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1638&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1639&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_163a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_163b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_163c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_163d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_163e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_163f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1640&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1641&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1642&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1644&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1646&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1647&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1648&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_164a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_164b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_164d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_164e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_164f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1650&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1651&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1652&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1653&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1654&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1655&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1656&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1657&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1658&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1659&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_165a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_165b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_165c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_165d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_165e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_165f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1660&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1661&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1662&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1663&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1664&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1665&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1666&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1667&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1668&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1669&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_166a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_166b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_166c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_166d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_166e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_166f&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1670&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1671&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1672&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1673&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1674&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1675&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1676&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1677&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1678&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_1679&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_167a&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_167b&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_167c&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_167d&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_167e&MI_00
+%LumeneraGenericU3VCamera% =Luwinusb, USB\VID_1724&PID_167f&MI_00
+
+[PreCopySection]
+HKR,,NoSetupUI,,1
+
+[DestinationDirs]
+luldr092.Files.Ext = 10,System32\Drivers
+luldr092.Files.Inf = 10,INF
+luldr097.Files.Ext = 10,System32\Drivers
+luldr097.Files.Inf = 10,INF
+luldr096.Files.Ext = 10,System32\Drivers
+luldr096.Files.Inf = 10,INF
+luldr09e.Files.Ext = 10,System32\Drivers
+luldr09e.Files.Inf = 10,INF
+luldr08d.Files.Ext = 10,System32\Drivers
+luldr08d.Files.Inf = 10,INF
+luldr08b.Files.Ext = 10,System32\Drivers
+luldr08b.Files.Inf = 10,INF
+luldr085.Files.Ext = 10,System32\Drivers
+luldr085.Files.Inf = 10,INF
+luldr09a.Files.Ext = 10,System32\Drivers
+luldr09a.Files.Inf = 10,INF
+luldr08c.Files.Ext = 10,System32\Drivers
+luldr08c.Files.Inf = 10,INF
+luldr08a.Files.Ext = 10,System32\Drivers
+luldr08a.Files.Inf = 10,INF
+luldr09b.Files.Ext = 10,System32\Drivers
+luldr09b.Files.Inf = 10,INF
+luldr091.Files.Ext = 10,System32\Drivers
+luldr091.Files.Inf = 10,INF
+lwldr186.Files.Ext = 10,System32\Drivers
+lwldr186.Files.Inf = 10,INF
+lwldr18a.Files.Ext = 10,System32\Drivers
+lwldr18a.Files.Inf = 10,INF
+lwldr19a.Files.Ext = 10,System32\Drivers
+lwldr19a.Files.Inf = 10,INF
+lwldr18c.Files.Ext = 10,System32\Drivers
+lwldr18c.Files.Inf = 10,INF
+lwldr19b.Files.Ext = 10,System32\Drivers
+lwldr19b.Files.Inf = 10,INF
+lwldr180.Files.Ext = 10,System32\Drivers
+lwldr180.Files.Inf = 10,INF
+lwldr1cd.Files.Ext = 10,System32\Drivers
+lwldr1cd.Files.Inf = 10,INF
+lwldr1c8.Files.Ext = 10,System32\Drivers
+lwldr1c8.Files.Inf = 10,INF
+lwldr1c7.Files.Ext = 10,System32\Drivers
+lwldr1c7.Files.Inf = 10,INF
+lmldr284.Files.Ext = 10,System32\Drivers
+lmldr284.Files.Inf = 10,INF
+lmldr28c.Files.Ext = 10,System32\Drivers
+lmldr28c.Files.Inf = 10,INF
+lmldr29a.Files.Ext = 10,System32\Drivers
+lmldr29a.Files.Inf = 10,INF
+lmldr28a.Files.Ext = 10,System32\Drivers
+lmldr28a.Files.Inf = 10,INF
+lcldr384.Files.Ext = 10,System32\Drivers
+lcldr384.Files.Inf = 10,INF
+lcldr39e.Files.Ext = 10,System32\Drivers
+lcldr39e.Files.Inf = 10,INF
+lcldr38d.Files.Ext = 10,System32\Drivers
+lcldr38d.Files.Inf = 10,INF
+lcldr38b.Files.Ext = 10,System32\Drivers
+lcldr38b.Files.Inf = 10,INF
+lwldr1c5.Files.Ext = 10,System32\Drivers
+lwldr1c5.Files.Inf = 10,INF
+luldr099.Files.Ext = 10,System32\Drivers
+luldr099.Files.Inf = 10,INF
+lwldr1c9.Files.Ext = 10,System32\Drivers
+lwldr1c9.Files.Inf = 10,INF
+lwldr49f.Files.Ext = 10,System32\Drivers
+lwldr49f.Files.Inf = 10,INF
+lwldr4ce.Files.Ext = 10,System32\Drivers
+lwldr4ce.Files.Inf = 10,INF
+lmldr2c8.Files.Ext = 10,System32\Drivers
+lmldr2c8.Files.Inf = 10,INF
+lwldr196.Files.Ext = 10,System32\Drivers
+lwldr196.Files.Inf = 10,INF
+ltcamusb.Files.Ext = 10,System32\Drivers
+Stream.Files.Ext = 10,System32\Drivers
+Lumenera.DelDrivers=10,system
+ltcamusb.Files.Inf=10,INF
+lucam092.Files.Ext = 10,System32\Drivers
+lucam092.Files.Inf=10,INF
+lucam097.Files.Ext = 10,System32\Drivers
+lucam097.Files.Inf=10,INF
+lucam096.Files.Ext = 10,System32\Drivers
+lucam096.Files.Inf=10,INF
+lucam09e.Files.Ext = 10,System32\Drivers
+lucam09e.Files.Inf=10,INF
+lucam08d.Files.Ext = 10,System32\Drivers
+lucam08d.Files.Inf=10,INF
+lucam08b.Files.Ext = 10,System32\Drivers
+lucam08b.Files.Inf=10,INF
+lucam085.Files.Ext = 10,System32\Drivers
+lucam085.Files.Inf=10,INF
+lucam09a.Files.Ext = 10,System32\Drivers
+lucam09a.Files.Inf=10,INF
+lucam08c.Files.Ext = 10,System32\Drivers
+lucam08c.Files.Inf=10,INF
+lucam08a.Files.Ext = 10,System32\Drivers
+lucam08a.Files.Inf=10,INF
+lucam09b.Files.Ext = 10,System32\Drivers
+lucam09b.Files.Inf=10,INF
+lucam091.Files.Ext = 10,System32\Drivers
+lucam091.Files.Inf=10,INF
+lwcam186.Files.Ext = 10,System32\Drivers
+lwcam186.Files.Inf=10,INF
+lwcam18a.Files.Ext = 10,System32\Drivers
+lwcam18a.Files.Inf=10,INF
+lwcam19a.Files.Ext = 10,System32\Drivers
+lwcam19a.Files.Inf=10,INF
+lwcam18c.Files.Ext = 10,System32\Drivers
+lwcam18c.Files.Inf=10,INF
+lwcam19b.Files.Ext = 10,System32\Drivers
+lwcam19b.Files.Inf=10,INF
+lwcam180.Files.Ext = 10,System32\Drivers
+lwcam180.Files.Inf=10,INF
+lwcam1cd.Files.Ext = 10,System32\Drivers
+lwcam1cd.Files.Inf=10,INF
+lwcam1c8.Files.Ext = 10,System32\Drivers
+lwcam1c8.Files.Inf=10,INF
+lwcam1c7.Files.Ext = 10,System32\Drivers
+lwcam1c7.Files.Inf=10,INF
+lmcam284.Files.Ext = 10,System32\Drivers
+lmcam284.Files.Inf=10,INF
+lmcam28c.Files.Ext = 10,System32\Drivers
+lmcam28c.Files.Inf=10,INF
+lmcam29a.Files.Ext = 10,System32\Drivers
+lmcam29a.Files.Inf=10,INF
+lmcam28a.Files.Ext = 10,System32\Drivers
+lmcam28a.Files.Inf=10,INF
+lccam384.Files.Ext = 10,System32\Drivers
+lccam384.Files.Inf=10,INF
+lccam39e.Files.Ext = 10,System32\Drivers
+lccam39e.Files.Inf=10,INF
+lccam38d.Files.Ext = 10,System32\Drivers
+lccam38d.Files.Inf=10,INF
+lccam38b.Files.Ext = 10,System32\Drivers
+lccam38b.Files.Inf=10,INF
+lwcam1c5.Files.Ext = 10,System32\Drivers
+lwcam1c5.Files.Inf=10,INF
+lucam099.Files.Ext = 10,System32\Drivers
+lucam099.Files.Inf=10,INF
+lwcam1c9.Files.Ext = 10,System32\Drivers
+lwcam1c9.Files.Inf=10,INF
+lwcam49f.Files.Ext = 10,System32\Drivers
+lwcam49f.Files.Inf=10,INF
+lwcam4ce.Files.Ext = 10,System32\Drivers
+lwcam4ce.Files.Inf=10,INF
+lmcam2c8.Files.Ext = 10,System32\Drivers
+lmcam2c8.Files.Inf=10,INF
+lwcam196.Files.Ext = 10,System32\Drivers
+lwcam196.Files.Inf=10,INF
+CoInstallers_CopyFiles=11
+
+[luldr092]
+CopyFiles=luldr092.Files.Ext, luldr092.Files.Inf
+AddReg=luldr092.AddReg
+
+[luldr092.NT]
+AddReg=luldr092.AddReg
+DriverVer=02/13/2018, 1.11.19.91
+CopyFiles=luldr092.Files.Ext
+
+[luldr092.NT.Services]
+Addservice = luldr092, 0x00000002, luldr092.AddService
+
+[luldr092.AddService]
+DisplayName    = %luldr092.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr092.sys
+LoadOrderGroup = Base
+
+[luldr092.AddReg]
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr092.sys
+
+[luldr092.Files.Ext]
+luldr092.sys
+
+[luldr092.Files.Inf]
+luldr092.Inf
+
+[SourceDisksFiles]
+
+luldr092.sys=1
+luldr097.sys=1
+luldr096.sys=1
+luldr09e.sys=1
+luldr08d.sys=1
+luldr08b.sys=1
+luldr085.sys=1
+luldr09a.sys=1
+luldr08c.sys=1
+luldr08a.sys=1
+luldr09b.sys=1
+luldr091.sys=1
+lwldr186.sys=1
+lwldr18a.sys=1
+lwldr19a.sys=1
+lwldr18c.sys=1
+lwldr19b.sys=1
+lwldr180.sys=1
+lwldr1cd.sys=1
+lwldr1c8.sys=1
+lwldr1c7.sys=1
+lmldr284.sys=1
+lmldr28c.sys=1
+lmldr29a.sys=1
+lmldr28a.sys=1
+lcldr384.sys=1
+lcldr39e.sys=1
+lcldr38d.sys=1
+lcldr38b.sys=1
+lwldr1c5.sys=1
+luldr099.sys=1
+lwldr1c9.sys=1
+lwldr49f.sys=1
+lwldr4ce.sys=1
+lmldr2c8.sys=1
+lwldr196.sys=1
+ltcamusb.sys=1
+lucam092.sys=1
+lucam096.sys=1
+lucam09e.sys=1
+lucam085.sys=1
+lucam09a.sys=1
+lucam08c.sys=1
+lucam08a.sys=1
+lucam09b.sys=1
+lucam091.sys=1
+lwcam186.sys=1
+lwcam18a.sys=1
+lwcam19a.sys=1
+lwcam18c.sys=1
+lwcam19b.sys=1
+lwcam180.sys=1
+lwcam1cd.sys=1
+lwcam1c8.sys=1
+lwcam1c7.sys=1
+lmcam284.sys=1
+lmcam28c.sys=1
+lmcam29a.sys=1
+lmcam28a.sys=1
+lccam384.sys=1
+lccam39e.sys=1
+lccam38d.sys=1
+lccam38b.sys=1
+lwcam1c5.sys=1
+lucam099.sys=1
+lwcam1c9.sys=1
+lwcam49f.sys=1
+lwcam4ce.sys=1
+lmcam2c8.sys=1
+lwcam196.sys=1
+WinUSBCoInstaller2.dll = 1
+WdfCoInstaller01011.dll = 1
+
+
+[SourceDisksNames]
+
+1=%DiskName%
+
+
+[SourceDisksNames.x86]
+
+1=%DiskName%,,,\i386
+
+
+[SourceDisksNames.amd64]
+
+1=%DiskName%,,,\amd64
+
+
+[luldr097]
+
+CopyFiles=luldr097.Files.Ext, luldr097.Files.Inf
+AddReg=luldr097.AddReg
+
+
+[luldr097.NT]
+
+AddReg=luldr097.AddReg
+DriverVer=02/13/2018, 1.11.19.103
+CopyFiles=luldr097.Files.Ext
+
+
+[luldr097.NT.Services]
+
+Addservice = luldr097, 0x00000002, luldr097.AddService
+
+
+[luldr097.AddService]
+
+DisplayName    = %luldr097.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr097.sys
+LoadOrderGroup = Base
+
+
+[luldr097.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr097.sys
+
+
+[luldr097.Files.Ext]
+
+luldr097.sys
+
+
+[luldr097.Files.Inf]
+
+luldr097.Inf
+
+
+[luldr096]
+
+AddReg=luldr096.AddReg
+
+
+[luldr096.NT]
+
+AddReg=luldr096.AddReg
+DriverVer=02/13/2018, 1.11.7.201
+CopyFiles=luldr096.Files.Ext
+
+
+[luldr096.NT.Services]
+
+Addservice = luldr096, 0x00000002, luldr096.AddService
+
+
+[luldr096.AddService]
+
+DisplayName    = %luldr096.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr096.sys
+LoadOrderGroup = Base
+
+
+[luldr096.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr096.sys
+
+
+[luldr096.Files.Ext]
+
+luldr096.sys
+
+
+[luldr096.Files.Inf]
+
+luldr096.Inf
+
+
+[luldr09e]
+
+AddReg=luldr09e.AddReg
+
+
+[luldr09e.NT]
+
+AddReg=luldr09e.AddReg
+DriverVer=02/13/2018, 1.11.9.77
+CopyFiles=luldr09e.Files.Ext
+
+
+[luldr09e.NT.Services]
+
+Addservice = luldr09e, 0x00000002, luldr09e.AddService
+
+
+[luldr09e.AddService]
+
+DisplayName    = %luldr09e.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr09e.sys
+LoadOrderGroup = Base
+
+
+[luldr09e.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr09e.sys
+
+
+[luldr09e.Files.Ext]
+
+luldr09e.sys
+
+
+[luldr09e.Files.Inf]
+
+luldr09e.Inf
+
+
+[luldr08d]
+
+CopyFiles=luldr08d.Files.Ext, luldr08d.Files.Inf
+AddReg=luldr08d.AddReg
+
+
+[luldr08d.NT]
+
+AddReg=luldr08d.AddReg
+DriverVer=02/13/2018, 1.11.25.58
+CopyFiles=luldr08d.Files.Ext
+
+
+[luldr08d.NT.Services]
+
+Addservice = luldr08d, 0x00000002, luldr08d.AddService
+
+
+[luldr08d.AddService]
+
+DisplayName    = %luldr08d.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr08d.sys
+LoadOrderGroup = Base
+
+
+[luldr08d.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr08d.sys
+
+
+[luldr08d.Files.Ext]
+
+luldr08d.sys
+
+
+[luldr08d.Files.Inf]
+
+luldr08d.Inf
+
+
+[luldr08b]
+
+CopyFiles=luldr08b.Files.Ext, luldr08b.Files.Inf
+AddReg=luldr08b.AddReg
+
+
+[luldr08b.NT]
+
+AddReg=luldr08b.AddReg
+DriverVer=02/13/2018, 1.11.28.68
+CopyFiles=luldr08b.Files.Ext
+
+
+[luldr08b.NT.Services]
+
+Addservice = luldr08b, 0x00000002, luldr08b.AddService
+
+
+[luldr08b.AddService]
+
+DisplayName    = %luldr08b.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr08b.sys
+LoadOrderGroup = Base
+
+
+[luldr08b.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr08b.sys
+
+
+[luldr08b.Files.Ext]
+
+luldr08b.sys
+
+
+[luldr08b.Files.Inf]
+
+luldr08b.Inf
+
+
+[luldr085]
+
+CopyFiles=luldr085.Files.Ext, luldr085.Files.Inf
+AddReg=luldr085.AddReg
+
+
+[luldr085.NT]
+
+AddReg=luldr085.AddReg
+DriverVer=02/13/2018, 1.11.133.20
+CopyFiles=luldr085.Files.Ext
+
+
+[luldr085.NT.Services]
+
+Addservice = luldr085, 0x00000002, luldr085.AddService
+
+
+[luldr085.AddService]
+
+DisplayName    = %luldr085.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr085.sys
+LoadOrderGroup = Base
+
+
+[luldr085.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr085.sys
+
+
+[luldr085.Files.Ext]
+
+luldr085.sys
+
+
+[luldr085.Files.Inf]
+
+luldr085.Inf
+
+
+[luldr09a]
+
+AddReg=luldr09a.AddReg
+
+
+[luldr09a.NT]
+
+AddReg=luldr09a.AddReg
+DriverVer=02/13/2018, 1.11.11.209
+CopyFiles=luldr09a.Files.Ext
+
+
+[luldr09a.NT.Services]
+
+Addservice = luldr09a, 0x00000002, luldr09a.AddService
+
+
+[luldr09a.AddService]
+
+DisplayName    = %luldr09a.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr09a.sys
+LoadOrderGroup = Base
+
+
+[luldr09a.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr09a.sys
+
+
+[luldr09a.Files.Ext]
+
+luldr09a.sys
+
+
+[luldr09a.Files.Inf]
+
+luldr09a.Inf
+
+
+[luldr08c]
+
+AddReg=luldr08c.AddReg
+
+
+[luldr08c.NT]
+
+AddReg=luldr08c.AddReg
+DriverVer=02/13/2018, 1.11.27.77
+CopyFiles=luldr08c.Files.Ext
+
+
+[luldr08c.NT.Services]
+
+Addservice = luldr08c, 0x00000002, luldr08c.AddService
+
+
+[luldr08c.AddService]
+
+DisplayName    = %luldr08c.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr08c.sys
+LoadOrderGroup = Base
+
+
+[luldr08c.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr08c.sys
+
+
+[luldr08c.Files.Ext]
+
+luldr08c.sys
+
+
+[luldr08c.Files.Inf]
+
+luldr08c.Inf
+
+
+[luldr08a]
+
+AddReg=luldr08a.AddReg
+
+
+[luldr08a.NT]
+
+AddReg=luldr08a.AddReg
+DriverVer=02/13/2018, 1.11.27.88
+CopyFiles=luldr08a.Files.Ext
+
+
+[luldr08a.NT.Services]
+
+Addservice = luldr08a, 0x00000002, luldr08a.AddService
+
+
+[luldr08a.AddService]
+
+DisplayName    = %luldr08a.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr08a.sys
+LoadOrderGroup = Base
+
+
+[luldr08a.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr08a.sys
+
+
+[luldr08a.Files.Ext]
+
+luldr08a.sys
+
+
+[luldr08a.Files.Inf]
+
+luldr08a.Inf
+
+
+[luldr09b]
+
+AddReg=luldr09b.AddReg
+
+
+[luldr09b.NT]
+
+AddReg=luldr09b.AddReg
+DriverVer=02/13/2018, 1.11.155.51
+CopyFiles=luldr09b.Files.Ext
+
+
+[luldr09b.NT.Services]
+
+Addservice = luldr09b, 0x00000002, luldr09b.AddService
+
+
+[luldr09b.AddService]
+
+DisplayName    = %luldr09b.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr09b.sys
+LoadOrderGroup = Base
+
+
+[luldr09b.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr09b.sys
+
+
+[luldr09b.Files.Ext]
+
+luldr09b.sys
+
+
+[luldr09b.Files.Inf]
+
+luldr09b.Inf
+
+
+[luldr091]
+
+AddReg=luldr091.AddReg
+
+
+[luldr091.NT]
+
+AddReg=luldr091.AddReg
+DriverVer=02/13/2018, 1.11.2.35
+CopyFiles=luldr091.Files.Ext
+
+
+[luldr091.NT.Services]
+
+Addservice = luldr091, 0x00000002, luldr091.AddService
+
+
+[luldr091.AddService]
+
+DisplayName    = %luldr091.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr091.sys
+LoadOrderGroup = Base
+
+
+[luldr091.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr091.sys
+
+
+[luldr091.Files.Ext]
+
+luldr091.sys
+
+
+[luldr091.Files.Inf]
+
+luldr091.Inf
+
+
+[lwldr186]
+
+AddReg=lwldr186.AddReg
+
+
+[lwldr186.NT]
+
+AddReg=lwldr186.AddReg
+DriverVer=02/13/2018, 1.11.134.31
+CopyFiles=lwldr186.Files.Ext
+
+
+[lwldr186.NT.Services]
+
+Addservice = lwldr186, 0x00000002, lwldr186.AddService
+
+
+[lwldr186.AddService]
+
+DisplayName    = %lwldr186.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr186.sys
+LoadOrderGroup = Base
+
+
+[lwldr186.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr186.sys
+
+
+[lwldr186.Files.Ext]
+
+lwldr186.sys
+
+
+[lwldr186.Files.Inf]
+
+lwldr186.Inf
+
+
+[lwldr18a]
+
+AddReg=lwldr18a.AddReg
+
+
+[lwldr18a.NT]
+
+AddReg=lwldr18a.AddReg
+DriverVer=02/13/2018, 1.11.27.88
+CopyFiles=lwldr18a.Files.Ext
+
+
+[lwldr18a.NT.Services]
+
+Addservice = lwldr18a, 0x00000002, lwldr18a.AddService
+
+
+[lwldr18a.AddService]
+
+DisplayName    = %lwldr18a.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr18a.sys
+LoadOrderGroup = Base
+
+
+[lwldr18a.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr18a.sys
+
+
+[lwldr18a.Files.Ext]
+
+lwldr18a.sys
+
+
+[lwldr18a.Files.Inf]
+
+lwldr18a.Inf
+
+
+[lwldr19a]
+
+AddReg=lwldr19a.AddReg
+
+
+[lwldr19a.NT]
+
+AddReg=lwldr19a.AddReg
+DriverVer=02/13/2018, 1.11.11.209
+CopyFiles=lwldr19a.Files.Ext
+
+
+[lwldr19a.NT.Services]
+
+Addservice = lwldr19a, 0x00000002, lwldr19a.AddService
+
+
+[lwldr19a.AddService]
+
+DisplayName    = %lwldr19a.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr19a.sys
+LoadOrderGroup = Base
+
+
+[lwldr19a.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr19a.sys
+
+
+[lwldr19a.Files.Ext]
+
+lwldr19a.sys
+
+
+[lwldr19a.Files.Inf]
+
+lwldr19a.Inf
+
+
+[lwldr18c]
+
+AddReg=lwldr18c.AddReg
+
+
+[lwldr18c.NT]
+
+AddReg=lwldr18c.AddReg
+DriverVer=02/13/2018, 1.11.27.77
+CopyFiles=lwldr18c.Files.Ext
+
+
+[lwldr18c.NT.Services]
+
+Addservice = lwldr18c, 0x00000002, lwldr18c.AddService
+
+
+[lwldr18c.AddService]
+
+DisplayName    = %lwldr18c.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr18c.sys
+LoadOrderGroup = Base
+
+
+[lwldr18c.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr18c.sys
+
+
+[lwldr18c.Files.Ext]
+
+lwldr18c.sys
+
+
+[lwldr18c.Files.Inf]
+
+lwldr18c.Inf
+
+
+[lwldr19b]
+
+AddReg=lwldr19b.AddReg
+
+
+[lwldr19b.NT]
+
+AddReg=lwldr19b.AddReg
+DriverVer=02/13/2018, 1.11.155.51
+CopyFiles=lwldr19b.Files.Ext
+
+
+[lwldr19b.NT.Services]
+
+Addservice = lwldr19b, 0x00000002, lwldr19b.AddService
+
+
+[lwldr19b.AddService]
+
+DisplayName    = %lwldr19b.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr19b.sys
+LoadOrderGroup = Base
+
+
+[lwldr19b.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr19b.sys
+
+
+[lwldr19b.Files.Ext]
+
+lwldr19b.sys
+
+
+[lwldr19b.Files.Inf]
+
+lwldr19b.Inf
+
+
+[lwldr180]
+
+AddReg=lwldr180.AddReg
+
+
+[lwldr180.NT]
+
+AddReg=lwldr180.AddReg
+DriverVer=02/13/2018, 1.11.128.44
+CopyFiles=lwldr180.Files.Ext
+
+
+[lwldr180.NT.Services]
+
+Addservice = lwldr180, 0x00000002, lwldr180.AddService
+
+
+[lwldr180.AddService]
+
+DisplayName    = %lwldr180.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr180.sys
+LoadOrderGroup = Base
+
+
+[lwldr180.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr180.sys
+
+
+[lwldr180.Files.Ext]
+
+lwldr180.sys
+
+
+[lwldr180.Files.Inf]
+
+lwldr180.Inf
+
+
+[lwldr1cd]
+
+AddReg=lwldr1cd.AddReg
+
+
+[lwldr1cd.NT]
+
+AddReg=lwldr1cd.AddReg
+DriverVer=02/13/2018, 1.11.205.24
+CopyFiles=lwldr1cd.Files.Ext
+
+
+[lwldr1cd.NT.Services]
+
+Addservice = lwldr1cd, 0x00000002, lwldr1cd.AddService
+
+
+[lwldr1cd.AddService]
+
+DisplayName    = %lwldr1cd.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr1cd.sys
+LoadOrderGroup = Base
+
+
+[lwldr1cd.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr1cd.sys
+
+
+[lwldr1cd.Files.Ext]
+
+lwldr1cd.sys
+
+
+[lwldr1cd.Files.Inf]
+
+lwldr1cd.Inf
+
+
+[lwldr1c8]
+
+AddReg=lwldr1c8.AddReg
+
+
+[lwldr1c8.NT]
+
+AddReg=lwldr1c8.AddReg
+DriverVer=02/13/2018, 1.11.200.87
+CopyFiles=lwldr1c8.Files.Ext
+
+
+[lwldr1c8.NT.Services]
+
+Addservice = lwldr1c8, 0x00000002, lwldr1c8.AddService
+
+
+[lwldr1c8.AddService]
+
+DisplayName    = %lwldr1c8.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr1c8.sys
+LoadOrderGroup = Base
+
+
+[lwldr1c8.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr1c8.sys
+
+
+[lwldr1c8.Files.Ext]
+
+lwldr1c8.sys
+
+
+[lwldr1c8.Files.Inf]
+
+lwldr1c8.Inf
+
+
+[lwldr1c7]
+
+AddReg=lwldr1c7.AddReg
+
+
+[lwldr1c7.NT]
+
+AddReg=lwldr1c7.AddReg
+DriverVer=02/13/2018, 1.11.199.15
+CopyFiles=lwldr1c7.Files.Ext
+
+
+[lwldr1c7.NT.Services]
+
+Addservice = lwldr1c7, 0x00000002, lwldr1c7.AddService
+
+
+[lwldr1c7.AddService]
+
+DisplayName    = %lwldr1c7.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr1c7.sys
+LoadOrderGroup = Base
+
+
+[lwldr1c7.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr1c7.sys
+
+
+[lwldr1c7.Files.Ext]
+
+lwldr1c7.sys
+
+
+[lwldr1c7.Files.Inf]
+
+lwldr1c7.Inf
+
+
+[lmldr284]
+
+CopyFiles=lmldr284.Files.Ext, lmldr284.Files.Inf
+AddReg=lmldr284.AddReg
+
+
+[lmldr284.NT]
+
+AddReg=lmldr284.AddReg
+DriverVer=02/13/2018, 1.11.132.46
+CopyFiles=lmldr284.Files.Ext
+
+
+[lmldr284.NT.Services]
+
+Addservice = lmldr284, 0x00000002, lmldr284.AddService
+
+
+[lmldr284.AddService]
+
+DisplayName    = %lmldr284.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lmldr284.sys
+LoadOrderGroup = Base
+
+
+[lmldr284.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lmldr284.sys
+
+
+[lmldr284.Files.Ext]
+
+lmldr284.sys
+
+
+[lmldr284.Files.Inf]
+
+lmldr284.Inf
+
+
+[lmldr28c]
+
+AddReg=lmldr28c.AddReg
+
+
+[lmldr28c.NT]
+
+AddReg=lmldr28c.AddReg
+DriverVer=02/13/2018, 1.11.27.77
+CopyFiles=lmldr28c.Files.Ext
+
+
+[lmldr28c.NT.Services]
+
+Addservice = lmldr28c, 0x00000002, lmldr28c.AddService
+
+
+[lmldr28c.AddService]
+
+DisplayName    = %lmldr28c.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lmldr28c.sys
+LoadOrderGroup = Base
+
+
+[lmldr28c.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lmldr28c.sys
+
+
+[lmldr28c.Files.Ext]
+
+lmldr28c.sys
+
+
+[lmldr28c.Files.Inf]
+
+lmldr28c.Inf
+
+
+[lmldr29a]
+
+AddReg=lmldr29a.AddReg
+
+
+[lmldr29a.NT]
+
+AddReg=lmldr29a.AddReg
+DriverVer=02/13/2018, 1.11.11.209
+CopyFiles=lmldr29a.Files.Ext
+
+
+[lmldr29a.NT.Services]
+
+Addservice = lmldr29a, 0x00000002, lmldr29a.AddService
+
+
+[lmldr29a.AddService]
+
+DisplayName    = %lmldr29a.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lmldr29a.sys
+LoadOrderGroup = Base
+
+
+[lmldr29a.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lmldr29a.sys
+
+
+[lmldr29a.Files.Ext]
+
+lmldr29a.sys
+
+
+[lmldr29a.Files.Inf]
+
+lmldr29a.Inf
+
+
+[lmldr28a]
+
+AddReg=lmldr28a.AddReg
+
+
+[lmldr28a.NT]
+
+AddReg=lmldr28a.AddReg
+DriverVer=02/13/2018, 1.11.27.88
+CopyFiles=lmldr28a.Files.Ext
+
+
+[lmldr28a.NT.Services]
+
+Addservice = lmldr28a, 0x00000002, lmldr28a.AddService
+
+
+[lmldr28a.AddService]
+
+DisplayName    = %lmldr28a.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lmldr28a.sys
+LoadOrderGroup = Base
+
+
+[lmldr28a.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lmldr28a.sys
+
+
+[lmldr28a.Files.Ext]
+
+lmldr28a.sys
+
+
+[lmldr28a.Files.Inf]
+
+lmldr28a.Inf
+
+
+[lcldr384]
+
+CopyFiles=lcldr384.Files.Ext, lcldr384.Files.Inf
+AddReg=lcldr384.AddReg
+
+
+[lcldr384.NT]
+
+AddReg=lcldr384.AddReg
+DriverVer=02/13/2018, 1.11.132.44
+CopyFiles=lcldr384.Files.Ext
+
+
+[lcldr384.NT.Services]
+
+Addservice = lcldr384, 0x00000002, lcldr384.AddService
+
+
+[lcldr384.AddService]
+
+DisplayName    = %lcldr384.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lcldr384.sys
+LoadOrderGroup = Base
+
+
+[lcldr384.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lcldr384.sys
+
+
+[lcldr384.Files.Ext]
+
+lcldr384.sys
+
+
+[lcldr384.Files.Inf]
+
+lcldr384.Inf
+
+
+[lcldr39e]
+
+CopyFiles=lcldr39e.Files.Ext, lcldr39e.Files.Inf
+AddReg=lcldr39e.AddReg
+
+
+[lcldr39e.NT]
+
+AddReg=lcldr39e.AddReg
+DriverVer=02/13/2018, 1.11.158.23
+CopyFiles=lcldr39e.Files.Ext
+
+
+[lcldr39e.NT.Services]
+
+Addservice = lcldr39e, 0x00000002, lcldr39e.AddService
+
+
+[lcldr39e.AddService]
+
+DisplayName    = %lcldr39e.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lcldr39e.sys
+LoadOrderGroup = Base
+
+
+[lcldr39e.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lcldr39e.sys
+
+
+[lcldr39e.Files.Ext]
+
+lcldr39e.sys
+
+
+[lcldr39e.Files.Inf]
+
+lcldr39e.Inf
+
+
+[lcldr38d]
+
+CopyFiles=lcldr38d.Files.Ext, lcldr38d.Files.Inf
+AddReg=lcldr38d.AddReg
+
+
+[lcldr38d.NT]
+
+AddReg=lcldr38d.AddReg
+DriverVer=02/13/2018, 1.11.141.31
+CopyFiles=lcldr38d.Files.Ext
+
+
+[lcldr38d.NT.Services]
+
+Addservice = lcldr38d, 0x00000002, lcldr38d.AddService
+
+
+[lcldr38d.AddService]
+
+DisplayName    = %lcldr38d.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lcldr38d.sys
+LoadOrderGroup = Base
+
+
+[lcldr38d.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lcldr38d.sys
+
+
+[lcldr38d.Files.Ext]
+
+lcldr38d.sys
+
+
+[lcldr38d.Files.Inf]
+
+lcldr38d.Inf
+
+
+[lcldr38b]
+
+CopyFiles=lcldr38b.Files.Ext, lcldr38b.Files.Inf
+AddReg=lcldr38b.AddReg
+
+
+[lcldr38b.NT]
+
+AddReg=lcldr38b.AddReg
+DriverVer=02/13/2018, 1.11.139.23
+CopyFiles=lcldr38b.Files.Ext
+
+
+[lcldr38b.NT.Services]
+
+Addservice = lcldr38b, 0x00000002, lcldr38b.AddService
+
+
+[lcldr38b.AddService]
+
+DisplayName    = %lcldr38b.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lcldr38b.sys
+LoadOrderGroup = Base
+
+
+[lcldr38b.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lcldr38b.sys
+
+
+[lcldr38b.Files.Ext]
+
+lcldr38b.sys
+
+
+[lcldr38b.Files.Inf]
+
+lcldr38b.Inf
+
+
+[lwldr1c5]
+
+CopyFiles=lwldr1c5.Files.Ext, lwldr1c5.Files.Inf
+AddReg=lwldr1c5.AddReg
+
+
+[lwldr1c5.NT]
+
+AddReg=lwldr1c5.AddReg
+DriverVer=02/13/2018, 1.11.197.34
+CopyFiles=lwldr1c5.Files.Ext
+
+
+[lwldr1c5.NT.Services]
+
+Addservice = lwldr1c5, 0x00000002, lwldr1c5.AddService
+
+
+[lwldr1c5.AddService]
+
+DisplayName    = %lwldr1c5.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr1c5.sys
+LoadOrderGroup = Base
+
+
+[lwldr1c5.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr1c5.sys
+
+
+[lwldr1c5.Files.Ext]
+
+lwldr1c5.sys
+
+
+[lwldr1c5.Files.Inf]
+
+lwldr1c5.Inf
+
+
+[luldr099]
+
+CopyFiles=luldr099.Files.Ext, luldr099.Files.Inf
+AddReg=luldr099.AddReg
+
+
+[luldr099.NT]
+
+AddReg=luldr099.AddReg
+DriverVer=02/13/2018, 1.11.9.144
+CopyFiles=luldr099.Files.Ext
+
+
+[luldr099.NT.Services]
+
+Addservice = luldr099, 0x00000002, luldr099.AddService
+
+
+[luldr099.AddService]
+
+DisplayName    = %luldr099.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\luldr099.sys
+LoadOrderGroup = Base
+
+
+[luldr099.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,luldr099.sys
+
+
+[luldr099.Files.Ext]
+
+luldr099.sys
+
+
+[luldr099.Files.Inf]
+
+luldr099.Inf
+
+
+[lwldr1c9]
+
+AddReg=lwldr1c9.AddReg
+
+
+[lwldr1c9.NT]
+
+AddReg=lwldr1c9.AddReg
+DriverVer=02/13/2018, 1.11.201.15
+CopyFiles=lwldr1c9.Files.Ext
+
+
+[lwldr1c9.NT.Services]
+
+Addservice = lwldr1c9, 0x00000002, lwldr1c9.AddService
+
+
+[lwldr1c9.AddService]
+
+DisplayName    = %lwldr1c9.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr1c9.sys
+LoadOrderGroup = Base
+
+
+[lwldr1c9.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr1c9.sys
+
+
+[lwldr1c9.Files.Ext]
+
+lwldr1c9.sys
+
+
+[lwldr1c9.Files.Inf]
+
+lwldr1c9.Inf
+
+
+[lwldr49f]
+
+AddReg=lwldr49f.AddReg
+
+
+[lwldr49f.NT]
+
+AddReg=lwldr49f.AddReg
+DriverVer=02/13/2018, 1.11.9.241
+CopyFiles=lwldr49f.Files.Ext
+
+
+[lwldr49f.NT.Services]
+
+Addservice = lwldr49f, 0x00000002, lwldr49f.AddService
+
+
+[lwldr49f.AddService]
+
+DisplayName    = %lwldr49f.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr49f.sys
+LoadOrderGroup = Base
+
+
+[lwldr49f.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr49f.sys
+
+
+[lwldr49f.Files.Ext]
+
+lwldr49f.sys
+
+
+[lwldr49f.Files.Inf]
+
+lwldr49f.Inf
+
+
+[lwldr4ce]
+
+AddReg=lwldr4ce.AddReg
+
+
+[lwldr4ce.NT]
+
+AddReg=lwldr4ce.AddReg
+DriverVer=02/13/2018, 1.11.206.22
+CopyFiles=lwldr4ce.Files.Ext
+
+
+[lwldr4ce.NT.Services]
+
+Addservice = lwldr4ce, 0x00000002, lwldr4ce.AddService
+
+
+[lwldr4ce.AddService]
+
+DisplayName    = %lwldr4ce.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr4ce.sys
+LoadOrderGroup = Base
+
+
+[lwldr4ce.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr4ce.sys
+
+
+[lwldr4ce.Files.Ext]
+
+lwldr4ce.sys
+
+
+[lwldr4ce.Files.Inf]
+
+lwldr4ce.Inf
+
+
+[lmldr2c8]
+
+AddReg=lmldr2c8.AddReg
+
+
+[lmldr2c8.NT]
+
+AddReg=lmldr2c8.AddReg
+DriverVer=02/13/2018, 1.11.202.43
+CopyFiles=lmldr2c8.Files.Ext
+
+
+[lmldr2c8.NT.Services]
+
+Addservice = lmldr2c8, 0x00000002, lmldr2c8.AddService
+
+
+[lmldr2c8.AddService]
+
+DisplayName    = %lmldr2c8.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lmldr2c8.sys
+LoadOrderGroup = Base
+
+
+[lmldr2c8.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lmldr2c8.sys
+
+
+[lmldr2c8.Files.Ext]
+
+lmldr2c8.sys
+
+
+[lmldr2c8.Files.Inf]
+
+lmldr2c8.Inf
+
+
+[lwldr196]
+
+AddReg=lwldr196.AddReg
+
+
+[lwldr196.NT]
+
+AddReg=lwldr196.AddReg
+DriverVer=02/13/2018, 1.11.7.201
+CopyFiles=lwldr196.Files.Ext
+
+
+[lwldr196.NT.Services]
+
+Addservice = lwldr196, 0x00000002, lwldr196.AddService
+
+
+[lwldr196.AddService]
+
+DisplayName    = %lwldr196.SvcDesc%
+ServiceType    = 1                  ; SERVICE_KERNEL_DRIVER
+StartType      = 3                  ; SERVICE_DEMAND_START
+ErrorControl   = 1                  ; SERVICE_ERROR_NORMAL
+ServiceBinary  = %10%\System32\Drivers\lwldr196.sys
+LoadOrderGroup = Base
+
+
+[lwldr196.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwldr196.sys
+
+
+[lwldr196.Files.Ext]
+
+lwldr196.sys
+
+
+[lwldr196.Files.Inf]
+
+lwldr196.Inf
+
+
+[ControlFlags]
+
+
+
+[LumeneraScientific]
+
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0700
+%USB\VID_1724&PID_0711.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0711
+%USB\VID_1724&PID_0713.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0713
+%USB\VID_1724&PID_0716.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0716
+%USB\VID_1724&PID_0719.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0719
+%USB\VID_1724&PID_071c.DeviceDesc%=ltcamusb,USB\VID_1724&PID_071c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0701
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0702
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0703
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0704
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0705
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0706
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0707
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0708
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0709
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_070a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_070b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_070c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_070d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_070e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_070f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0710
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0712
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0714
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0715
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0717
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0718
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_071a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_071b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_071d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_071e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_071f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0720
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0721
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0722
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0723
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0724
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0725
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0726
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0727
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0728
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0729
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_072a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_072b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_072c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_072d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_072e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_072f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0730
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0731
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0732
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0733
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0734
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0735
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0736
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0737
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0738
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0739
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_073a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_073b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_073c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_073d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_073e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_073f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0740
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0741
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0742
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0743
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0744
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0745
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0746
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0747
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0748
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0749
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_074a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_074b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_074c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_074d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_074e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_074f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0750
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0751
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0752
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0753
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0754
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0755
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0756
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0757
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0758
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0759
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_075a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_075b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_075c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_075d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_075e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_075f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0760
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0761
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0762
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0763
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0764
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0765
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0766
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0767
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0768
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0769
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_076a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_076b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_076c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_076d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_076e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_076f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0770
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0771
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0772
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0773
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0774
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0775
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0776
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0777
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0778
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0779
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_077a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_077b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_077c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_077d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_077e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_077f
+
+
+[LumeneraScientific.NTamd64]
+
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0700
+%USB\VID_1724&PID_0711.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0711
+%USB\VID_1724&PID_0713.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0713
+%USB\VID_1724&PID_0716.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0716
+%USB\VID_1724&PID_0719.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0719
+%USB\VID_1724&PID_071c.DeviceDesc%=ltcamusb,USB\VID_1724&PID_071c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0701
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0702
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0703
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0704
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0705
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0706
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0707
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0708
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0709
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_070a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_070b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_070c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_070d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_070e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_070f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0710
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0712
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0714
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0715
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0717
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0718
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_071a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_071b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_071d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_071e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_071f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0720
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0721
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0722
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0723
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0724
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0725
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0726
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0727
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0728
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0729
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_072a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_072b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_072c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_072d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_072e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_072f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0730
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0731
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0732
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0733
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0734
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0735
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0736
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0737
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0738
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0739
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_073a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_073b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_073c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_073d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_073e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_073f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0740
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0741
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0742
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0743
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0744
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0745
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0746
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0747
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0748
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0749
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_074a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_074b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_074c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_074d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_074e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_074f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0750
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0751
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0752
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0753
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0754
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0755
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0756
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0757
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0758
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0759
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_075a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_075b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_075c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_075d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_075e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_075f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0760
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0761
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0762
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0763
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0764
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0765
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0766
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0767
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0768
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0769
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_076a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_076b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_076c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_076d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_076e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_076f
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0770
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0771
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0772
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0773
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0774
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0775
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0776
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0777
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0778
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_0779
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_077a
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_077b
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_077c
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_077d
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_077e
+%USB\InfinityGeneric.DeviceDesc%=ltcamusb,USB\VID_1724&PID_077f
+
+
+[ltcamusb]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     ltcamusb.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[ltcamusb.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     ltcamusb.AddReg
+CopyFiles=  ltcamusb.Files.Ext
+DriverVer=02/13/2018, 5.2.12.247
+
+
+[ltcamusb.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,ltcamusb.Interface
+
+
+[ltcamusb.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,ltcamusb.Interface
+
+
+[ltcamusb.Interface]
+
+AddReg=ltcamusb.Intf.AddReg
+
+
+[ltcamusb.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%ltcamusbDriverName%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%ltcamusbDriverDesc%
+HKR,,LumeneraKey,,%LumenKeyUsb%
+
+
+[ltcamusb.NT.Services]
+
+AddService = ltcamusb,0x00000002,ltcamusb.ServiceInstall
+
+
+[ltcamusb.ServiceInstall]
+
+DisplayName   = %LtcamusbServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\ltcamusb.sys
+
+
+[ltcamusb.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,ltcamusb.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+
+
+[Stream.Files.Ext]
+
+stream.sys
+
+
+[ltcamusb.Files.Ext]
+
+ltcamusb.sys
+
+
+[Lumenera.DelDrivers]
+
+ks.sys,,,1
+stream.sys,,,1
+
+
+[ltcamusb.Files.Inf]
+
+ltcamusb.inf
+
+
+[lucam092]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam092.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam092.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam092.AddReg
+CopyFiles=  lucam092.Files.Ext
+DriverVer=02/13/2018, 6.247.236.61186
+
+
+[lucam092.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam092.Interface
+
+
+[lucam092.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam092.Interface
+
+
+[lucam092.Interface]
+
+AddReg=lucam092.Intf.AddReg
+
+
+[lucam092.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_0092.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_0092.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey092%
+
+
+[lucam092.NT.Services]
+
+AddService = USBlucam092,0x00000002,lucam092.ServiceInstall
+
+
+[lucam092.ServiceInstall]
+
+DisplayName   = %Service092DisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam092.sys
+
+
+[lucam092.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam092.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey092%
+
+
+[lucam092.Files.Ext]
+
+lucam092.sys
+
+
+[lucam092.Files.Inf]
+
+lucam092.inf
+
+
+[lucam097]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam097.AddReg, lucam097.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam097.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam097.AddReg, lucam097.Matrix.AddReg
+CopyFiles=  lucam097.Files.Ext
+DriverVer=02/13/2018, 6.247.236.61186
+
+
+[lucam097.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam097.Interface
+
+
+[lucam097.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam097.Interface
+
+
+[lucam097.Interface]
+
+AddReg=lucam097.Intf.AddReg
+
+
+[lucam097.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_0097.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_0097.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey097%
+
+
+[lucam097.NT.Services]
+
+AddService = USBlucam092,0x00000002,lucam097.ServiceInstall
+
+
+[lucam097.ServiceInstall]
+
+DisplayName   = %Service092DisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam092.sys
+
+
+[lucam097.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0097",1,1, 0x48, 0x31, 0xbe, 0xe2, 0xfa, 0xfb, 0x0c, 0xfc, 0xa2, 0x19, 0x53, 0xfa, 0x79, 0xf8, 0x58, 0xfa, 0x2f, 0x1d
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0097",2,1, 0x33, 0x23, 0x00, 0xf0, 0xcd, 0xfc, 0x34, 0xfb, 0x99, 0x19, 0x34, 0xfb, 0xcd, 0xfc, 0x9a, 0xfd, 0x99, 0x15
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0097",3,1, 0x56, 0x32, 0x42, 0xe7, 0x6a, 0xf6, 0x5b, 0xf5, 0x02, 0x25, 0xa6, 0xf5, 0x3a, 0xf4, 0x15, 0x03, 0xb0, 0x18
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0097",5,1, 0x33, 0x23, 0x00, 0xf0, 0xcd, 0xfc, 0x34, 0xfb, 0x99, 0x19, 0x34, 0xfb, 0xcd, 0xfc, 0x9a, 0xfd, 0x99, 0x15
+
+
+[lucam097.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam092.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey097%
+
+
+[lucam097.Files.Ext]
+
+lucam092.sys
+
+
+[lucam097.Files.Inf]
+
+lucam097.inf
+
+
+[lucam096]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam096.AddReg, lucam096.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam096.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam096.AddReg, lucam096.Matrix.AddReg
+CopyFiles=  lucam096.Files.Ext
+DriverVer=02/13/2018, 5.247.49.30976
+
+
+[lucam096.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam096.Interface
+
+
+[lucam096.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam096.Interface
+
+
+[lucam096.Interface]
+
+AddReg=lucam096.Intf.AddReg
+
+
+[lucam096.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_0096.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_0096.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey096%
+
+
+[lucam096.NT.Services]
+
+AddService = USBLucam096,0x00000002,lucam096.ServiceInstall
+
+
+[lucam096.ServiceInstall]
+
+DisplayName   = %Lucam096ServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam096.sys
+
+
+[lucam096.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0096",1,1, 0x49, 0x2f, 0x95, 0xe4, 0x22, 0xfc, 0xbb, 0xfd, 0x62, 0x1e, 0xe4, 0xf3, 0x35, 0xf8, 0xcc, 0xed, 0x00, 0x2a
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0096",2,1, 0xab, 0x31, 0x27, 0xd8, 0x2e, 0x06, 0xe9, 0xf8, 0x06, 0x1a, 0x12, 0xfd, 0x63, 0x02, 0x29, 0xe7, 0x73, 0x26
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0096",5,1, 0x58, 0x2f, 0x2d, 0xeb, 0x7c, 0xf5, 0x0a, 0xfc, 0xba, 0x18, 0x3d, 0xfb, 0x3c, 0xf4, 0x23, 0x02, 0xa0, 0x19
+HKLM,"Software\Lumenera Corporation\Lucam\Defaults\0096","DM",0x10001, 8
+
+
+[lucam096.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam096.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey096%
+
+
+[lucam096.Files.Ext]
+
+lucam096.sys
+
+
+[lucam096.Files.Inf]
+
+lucam096.inf
+
+
+[lucam09e]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam09e.AddReg, lucam09e.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam09e.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam09e.AddReg, lucam09e.Matrix.AddReg
+CopyFiles=  lucam09e.Files.Ext
+DriverVer=02/13/2018, 9.247.195.42975
+
+
+[lucam09e.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam09e.Interface
+
+
+[lucam09e.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam09e.Interface
+
+
+[lucam09e.Interface]
+
+AddReg=lucam09e.Intf.AddReg
+
+
+[lucam09e.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_009e.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_009e.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey09e%
+
+
+[lucam09e.NT.Services]
+
+AddService = USBLucam09e,0x00000002,lucam09e.ServiceInstall
+
+
+[lucam09e.ServiceInstall]
+
+DisplayName   = %Lucam09eServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam09e.sys
+
+
+[lucam09e.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\009e",1,1, 0x9e, 0x10, 0xc1, 0xfe, 0xa0, 0x00, 0x91, 0x01, 0xb8, 0x0d, 0xb6, 0x00, 0xed, 0x01, 0x04, 0xfe, 0x0e, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\009e",2,1, 0x01, 0x13, 0x4b, 0xfb, 0xb3, 0x01, 0xca, 0xfc, 0x9d, 0x13, 0x99, 0xff, 0xb4, 0x03, 0xa4, 0xf8, 0xa7, 0x13
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\009e",3,1, 0x90, 0x1b, 0x74, 0xf3, 0xfb, 0x00, 0x79, 0xff, 0x14, 0x11, 0x75, 0xff, 0xa4, 0x00, 0xeb, 0xf2, 0x71, 0x1c
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\009e",4,1, 0x31, 0x18, 0xc7, 0xf5, 0x07, 0x02, 0xe6, 0x00, 0xcb, 0x0f, 0x4e, 0xff, 0x84, 0x00, 0x27, 0xff, 0x55, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\009e",5,1, 0xeb, 0x1b, 0xf3, 0xf4, 0x23, 0xff, 0xa4, 0x00, 0x7a, 0x13, 0xe2, 0xfb, 0x12, 0xff, 0x80, 0xfe, 0x6e, 0x12
+
+
+[lucam09e.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam09e.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey09e%
+
+
+[lucam09e.Files.Ext]
+
+lucam09e.sys
+
+
+[lucam09e.Files.Inf]
+
+lucam09e.inf
+
+
+[lucam08d]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam08d.AddReg, lucam08d.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam08d.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam08d.AddReg, lucam08d.Matrix.AddReg
+CopyFiles=  lucam08d.Files.Ext
+DriverVer=02/13/2018, 9.247.195.42975
+
+
+[lucam08d.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam08d.Interface
+
+
+[lucam08d.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam08d.Interface
+
+
+[lucam08d.Interface]
+
+AddReg=lucam08d.Intf.AddReg
+
+
+[lucam08d.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_008d.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_008d.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey08d%
+
+
+[lucam08d.NT.Services]
+
+AddService = USBLucam09e,0x00000002,lucam08d.ServiceInstall
+
+
+[lucam08d.ServiceInstall]
+
+DisplayName   = %Lucam09eServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam09e.sys
+
+
+[lucam08d.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008d",1,1, 0x92, 0x11, 0x92, 0xfd, 0xdc, 0x00, 0xd7, 0x00, 0x58, 0x0e, 0xcf, 0x00, 0x26, 0x02, 0xf6, 0xfe, 0xe4, 0x0e
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008d",2,1, 0x33, 0x19, 0xc9, 0xf1, 0x04, 0x05, 0x15, 0xfd, 0x8a, 0x14, 0x61, 0xfe, 0x8e, 0x02, 0x72, 0xf5, 0xff, 0x17
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008d",3,1, 0x90, 0x1b, 0x74, 0xf3, 0xfb, 0x00, 0x79, 0xff, 0x14, 0x11, 0x75, 0xff, 0xa4, 0x00, 0xeb, 0xf2, 0x71, 0x1c
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008d",4,1, 0x31, 0x18, 0xc7, 0xf5, 0x07, 0x02, 0xe6, 0x00, 0xcb, 0x0f, 0x4e, 0xff, 0x84, 0x00, 0x27, 0xff, 0x55, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008d",5,1, 0x33, 0x32, 0x66, 0xe8, 0x67, 0xf5, 0x8f, 0xf9, 0x70, 0x23, 0x02, 0xf3, 0x05, 0xfb, 0xb1, 0xff, 0x4b, 0x15
+
+
+[lucam08d.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam09e.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey08d%
+
+
+[lucam08d.Files.Ext]
+
+lucam09e.sys
+
+
+[lucam08d.Files.Inf]
+
+lucam08d.inf
+
+
+[lucam08b]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam08b.AddReg, lucam08b.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam08b.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam08b.AddReg, lucam08b.Matrix.AddReg
+CopyFiles=  lucam08b.Files.Ext
+DriverVer=02/13/2018, 9.247.195.42975
+
+
+[lucam08b.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam08b.Interface
+
+
+[lucam08b.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam08b.Interface
+
+
+[lucam08b.Interface]
+
+AddReg=lucam08b.Intf.AddReg
+
+
+[lucam08b.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_008b.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_008b.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey08b%
+
+
+[lucam08b.NT.Services]
+
+AddService = USBLucam09e,0x00000002,lucam08b.ServiceInstall
+
+
+[lucam08b.ServiceInstall]
+
+DisplayName   = %Lucam09eServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam09e.sys
+
+
+[lucam08b.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008b",1,1, 0xfc, 0x23, 0xd2, 0xf0, 0x32, 0xfb, 0x40, 0xfa, 0x57, 0x1d, 0x69, 0xf8, 0x54, 0x03, 0x92, 0xec, 0x1a, 0x20
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008b",2,1, 0x92, 0x1e, 0xaf, 0xf1, 0xbf, 0xff, 0x94, 0xf4, 0xbd, 0x20, 0xb0, 0xfa, 0x6c, 0x08, 0x22, 0xdf, 0x72, 0x28
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008b",3,1, 0x90, 0x1b, 0x74, 0xf3, 0xfb, 0x00, 0x79, 0xff, 0x14, 0x11, 0x75, 0xff, 0xa4, 0x00, 0xeb, 0xf2, 0x71, 0x1c
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008b",4,1, 0x31, 0x18, 0xc7, 0xf5, 0x07, 0x02, 0xe6, 0x00, 0xcb, 0x0f, 0x4e, 0xff, 0x84, 0x00, 0x27, 0xff, 0x55, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008b",5,1, 0xaa, 0x1c, 0x88, 0xf8, 0xce, 0xfa, 0x95, 0xfe, 0xaa, 0x15, 0xc2, 0xfb, 0xf8, 0xfd, 0xf3, 0xff, 0x15, 0x12
+
+
+[lucam08b.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam09e.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey08b%
+
+
+[lucam08b.Files.Ext]
+
+lucam09e.sys
+
+
+[lucam08b.Files.Inf]
+
+lucam08b.inf
+
+
+[lucam085]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam085.AddReg, lucam085.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam085.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam085.AddReg, lucam085.Matrix.AddReg
+CopyFiles=  lucam085.Files.Ext
+DriverVer=02/13/2018, 5.247.26.31164
+
+
+[lucam085.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam085.Interface
+
+
+[lucam085.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam085.Interface
+
+
+[lucam085.Interface]
+
+AddReg=lucam085.Intf.AddReg
+
+
+[lucam085.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_0085.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_0085.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey085%
+
+
+[lucam085.NT.Services]
+
+AddService = USBLucam085,0x00000002,lucam085.ServiceInstall
+
+
+[lucam085.ServiceInstall]
+
+DisplayName   = %Lucam085ServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam085.sys
+
+
+[lucam085.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0085",1,1, 0xe3, 0x11, 0xe5, 0xfc, 0x38, 0x01, 0x52, 0xff, 0xf0, 0x0f, 0xbe, 0x00, 0x34, 0x01, 0x2c, 0xff, 0xa0, 0x0f
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0085",2,1, 0x1b, 0x0f, 0xef, 0xfe, 0xf5, 0x01, 0x67, 0xff, 0xa4, 0x0e, 0xf4, 0x01, 0x21, 0x01, 0x1f, 0x00, 0xbe, 0x0e
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0085",3,1, 0x90, 0x1b, 0x74, 0xf3, 0xfb, 0x00, 0x79, 0xff, 0x14, 0x11, 0x75, 0xff, 0xa4, 0x00, 0xeb, 0xf2, 0x71, 0x1c
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0085",4,1, 0x31, 0x18, 0xc7, 0xf5, 0x07, 0x02, 0xe6, 0x00, 0xcb, 0x0f, 0x4e, 0xff, 0x84, 0x00, 0x27, 0xff, 0x55, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0085",5,1, 0x61, 0x2f, 0x9f, 0xdf, 0xff, 0x00, 0xbb, 0xfa, 0xa8, 0x1b, 0x9e, 0xf9, 0x84, 0xfd, 0x15, 0xf9, 0x68, 0x19
+
+
+[lucam085.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam085.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey085%
+
+
+[lucam085.Files.Ext]
+
+lucam085.sys
+
+
+[lucam085.Files.Inf]
+
+lucam085.inf
+
+
+[lucam09a]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam09a.AddReg, lucam09a.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam09a.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam09a.AddReg, lucam09a.Matrix.AddReg
+CopyFiles=  lucam09a.Files.Ext
+DriverVer=02/13/2018, 27.247.254.5018
+
+
+[lucam09a.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam09a.Interface
+
+
+[lucam09a.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam09a.Interface
+
+
+[lucam09a.Interface]
+
+AddReg=lucam09a.Intf.AddReg
+
+
+[lucam09a.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_009a.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_009a.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey09a%
+
+
+[lucam09a.NT.Services]
+
+AddService = USBlucam09a,0x00000002,lucam09a.ServiceInstall
+
+
+[lucam09a.ServiceInstall]
+
+DisplayName   = %Service09aDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam09a.sys
+
+
+[lucam09a.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\009a",1,1, 0xea, 0x12, 0x23, 0xfb, 0xf2, 0x01, 0x1a, 0xff, 0x18, 0x12, 0xce, 0xfe, 0x07, 0x04, 0x9f, 0xf9, 0x59, 0x12
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\009a",2,1, 0x7f, 0x12, 0xba, 0xfb, 0xc7, 0x01, 0xf7, 0xfa, 0x9f, 0x14, 0x69, 0x00, 0x3e, 0x04, 0xca, 0xf9, 0xf7, 0x11
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\009a",5,1, 0xa7, 0x10, 0xd9, 0xfc, 0x7f, 0x02, 0x32, 0x02, 0x16, 0x0f, 0xb8, 0xfe, 0x86, 0x00, 0xa5, 0x00, 0xd4, 0x0e
+
+
+[lucam09a.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam09a.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey09a%
+
+
+[lucam09a.Files.Ext]
+
+lucam09a.sys
+
+
+[lucam09a.Files.Inf]
+
+lucam09a.inf
+
+
+[lucam08c]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam08c.AddReg, lucam08c.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam08c.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam08c.AddReg, lucam08c.Matrix.AddReg
+CopyFiles=  lucam08c.Files.Ext
+DriverVer=02/13/2018, 8.247.114.33847
+
+
+[lucam08c.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam08c.Interface
+
+
+[lucam08c.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam08c.Interface
+
+
+[lucam08c.Interface]
+
+AddReg=lucam08c.Intf.AddReg
+
+
+[lucam08c.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_008c.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_008c.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey08c%
+
+
+[lucam08c.NT.Services]
+
+AddService = USBlucam08c,0x00000002,lucam08c.ServiceInstall
+
+
+[lucam08c.ServiceInstall]
+
+DisplayName   = %Service08cDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam08c.sys
+
+
+[lucam08c.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008c",1,1, 0xa2, 0x13, 0x54, 0xf9, 0x09, 0x03, 0x38, 0x00, 0xdc, 0x11, 0xeb, 0xfd, 0x96, 0x01, 0x40, 0xfb, 0x2a, 0x13
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008c",2,1, 0x89, 0x13, 0x0c, 0xf8, 0x6b, 0x04, 0x20, 0xfe, 0x08, 0x11, 0xd7, 0x00, 0xde, 0x01, 0x84, 0xfc, 0x9e, 0x11
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008c",5,1, 0xfb, 0x1b, 0x88, 0xf0, 0x7c, 0x03, 0x01, 0xff, 0x84, 0x13, 0x7b, 0xfd, 0x01, 0x01, 0x38, 0xfc, 0xc7, 0x12
+
+
+[lucam08c.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam08c.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey08c%
+
+
+[lucam08c.Files.Ext]
+
+lucam08c.sys
+
+
+[lucam08c.Files.Inf]
+
+lucam08c.inf
+
+
+[lucam08a]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam08a.AddReg, lucam08a.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam08a.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam08a.AddReg, lucam08a.Matrix.AddReg
+CopyFiles=  lucam08a.Files.Ext
+DriverVer=02/13/2018, 26.247.119.18756
+
+
+[lucam08a.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam08a.Interface
+
+
+[lucam08a.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam08a.Interface
+
+
+[lucam08a.Interface]
+
+AddReg=lucam08a.Intf.AddReg
+
+
+[lucam08a.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_008a.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_008a.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey08a%
+
+
+[lucam08a.NT.Services]
+
+AddService = USBlucam08a,0x00000002,lucam08a.ServiceInstall
+
+
+[lucam08a.ServiceInstall]
+
+DisplayName   = %Service08aDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam08a.sys
+
+
+[lucam08a.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008a",1,1, 0xb4, 0x11, 0x70, 0xfc, 0xdb, 0x01, 0x4b, 0xfe, 0xfb, 0x12, 0xba, 0xfe, 0x29, 0x05, 0xcb, 0xf4, 0x0b, 0x16
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008a",2,1, 0x50, 0x15, 0x85, 0xf8, 0x2a, 0x02, 0xfb, 0xf8, 0xc7, 0x16, 0x3d, 0x00, 0x7f, 0x06, 0x60, 0xf4, 0x20, 0x15
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\008a",5,1, 0xa6, 0x14, 0xc6, 0xf7, 0x93, 0x03, 0xfa, 0xfe, 0x52, 0x11, 0xb4, 0xff, 0x4f, 0x00, 0x39, 0xfe, 0x77, 0x11
+
+
+[lucam08a.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam08a.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey08a%
+
+
+[lucam08a.Files.Ext]
+
+lucam08a.sys
+
+
+[lucam08a.Files.Inf]
+
+lucam08a.inf
+
+
+[lucam09b]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam09b.AddReg, lucam09b.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam09b.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam09b.AddReg, lucam09b.Matrix.AddReg
+CopyFiles=  lucam09b.Files.Ext
+DriverVer=02/13/2018, 16.247.37.24482
+
+
+[lucam09b.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam09b.Interface
+
+
+[lucam09b.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam09b.Interface
+
+
+[lucam09b.Interface]
+
+AddReg=lucam09b.Intf.AddReg
+
+
+[lucam09b.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_009b.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_009b.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey09b%
+
+
+[lucam09b.NT.Services]
+
+AddService = USBlucam09b,0x00000002,lucam09b.ServiceInstall
+
+
+[lucam09b.ServiceInstall]
+
+DisplayName   = %Service09bDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam09b.sys
+
+
+[lucam09b.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\009b",1,1, 0xdb, 0x10, 0xc3, 0xfc, 0x61, 0x02, 0xd8, 0xff, 0x31, 0x10, 0xf8, 0xff, 0x9b, 0x03, 0x24, 0xfb, 0x41, 0x11
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\009b",2,1, 0x23, 0x13, 0x10, 0xfb, 0xcd, 0x01, 0x12, 0xfb, 0xa4, 0x14, 0x49, 0x00, 0x24, 0x04, 0xf5, 0xf8, 0xe6, 0x12
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\009b",3,1, 0x1d, 0x18, 0xf9, 0xfa, 0xea, 0xfc, 0xc0, 0xfb, 0xf6, 0x16, 0x4d, 0xfd, 0xd7, 0x00, 0x80, 0xfa, 0xa5, 0x14
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\009b",5,1, 0x59, 0x0f, 0x3e, 0xff, 0x69, 0x01, 0x36, 0x00, 0x56, 0x0e, 0x72, 0x01, 0x29, 0x00, 0xf0, 0x01, 0xe6, 0x0d
+
+
+[lucam09b.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam09b.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey09b%
+
+
+[lucam09b.Files.Ext]
+
+lucam09b.sys
+
+
+[lucam09b.Files.Inf]
+
+lucam09b.inf
+
+
+[lucam091]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam091.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam091.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam091.AddReg
+CopyFiles=  lucam091.Files.Ext
+DriverVer=02/13/2018, 5.247.14.47235
+
+
+[lucam091.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam091.Interface
+
+
+[lucam091.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam091.Interface
+
+
+[lucam091.Interface]
+
+AddReg=lucam091.Intf.AddReg
+
+
+[lucam091.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_0091.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_0091.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey091%
+
+
+[lucam091.NT.Services]
+
+AddService = USBLucam091,0x00000002,lucam091.ServiceInstall
+
+
+[lucam091.ServiceInstall]
+
+DisplayName   = %Lucam091ServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam091.sys
+
+
+[lucam091.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam091.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey091%
+
+
+[lucam091.Files.Ext]
+
+lucam091.sys
+
+
+[lucam091.Files.Inf]
+
+lucam091.inf
+
+
+[lwcam186]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam186.AddReg, lwcam186.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam186.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam186.AddReg, lwcam186.Matrix.AddReg
+CopyFiles=  lwcam186.Files.Ext
+DriverVer=02/13/2018, 5.247.26.58115
+
+
+[lwcam186.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam186.Interface
+
+
+[lwcam186.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam186.Interface
+
+
+[lwcam186.Interface]
+
+AddReg=lwcam186.Intf.AddReg
+
+
+[lwcam186.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_0186.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_0186.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey186%
+
+
+[lwcam186.NT.Services]
+
+AddService = USBLucam186,0x00000002,lwcam186.ServiceInstall
+
+
+[lwcam186.ServiceInstall]
+
+DisplayName   = %Lucam186ServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam186.sys
+
+
+[lwcam186.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0186",1,1, 0x8f, 0x40, 0x95, 0xd4, 0xdd, 0xfa, 0x5c, 0xfc, 0x92, 0x24, 0x12, 0xef, 0x28, 0x04, 0x3e, 0xf4, 0x99, 0x17
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0186",2,1, 0xe8, 0x25, 0x6b, 0xf1, 0xae, 0xf8, 0x2a, 0xf8, 0x49, 0x24, 0x8e, 0xf3, 0x54, 0x03, 0xd4, 0xef, 0xd7, 0x1c
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0186",4,1, 0xe3, 0x43, 0x4a, 0xc0, 0xd2, 0x0b, 0x23, 0xff, 0x58, 0x2b, 0x86, 0xe5, 0x1a, 0x03, 0xad, 0xe4, 0x39, 0x28
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0186",5,1, 0xaa, 0x49, 0xbd, 0xe4, 0x99, 0xe1, 0x47, 0xfb, 0x15, 0x27, 0xa5, 0xed, 0x70, 0xfb, 0x5f, 0xfa, 0x32, 0x1a
+HKLM,"Software\Lumenera Corporation\Lucam\Defaults\0186","DM",0x10001, 8
+
+
+[lwcam186.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam186.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey186%
+
+
+[lwcam186.Files.Ext]
+
+lwcam186.sys
+
+
+[lwcam186.Files.Inf]
+
+lwcam186.inf
+
+
+[lwcam18a]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam18a.AddReg, lwcam18a.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam18a.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam18a.AddReg, lwcam18a.Matrix.AddReg
+CopyFiles=  lwcam18a.Files.Ext
+DriverVer=02/13/2018, 6.247.215.45247
+
+
+[lwcam18a.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam18a.Interface
+
+
+[lwcam18a.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam18a.Interface
+
+
+[lwcam18a.Interface]
+
+AddReg=lwcam18a.Intf.AddReg
+
+
+[lwcam18a.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_018a.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_018a.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey18a%
+
+
+[lwcam18a.NT.Services]
+
+AddService = USBlwcam18a,0x00000002,lwcam18a.ServiceInstall
+
+
+[lwcam18a.ServiceInstall]
+
+DisplayName   = %Service18aDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam18a.sys
+
+
+[lwcam18a.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\018a",1,1, 0xb4, 0x11, 0x70, 0xfc, 0xdb, 0x01, 0x4b, 0xfe, 0xfb, 0x12, 0xba, 0xfe, 0x29, 0x05, 0xcb, 0xf4, 0x0b, 0x16
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\018a",2,1, 0x50, 0x15, 0x85, 0xf8, 0x2a, 0x02, 0xfb, 0xf8, 0xc7, 0x16, 0x3d, 0x00, 0x7f, 0x06, 0x60, 0xf4, 0x20, 0x15
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\018a",5,1, 0xa6, 0x14, 0xc6, 0xf7, 0x93, 0x03, 0xfa, 0xfe, 0x52, 0x11, 0xb4, 0xff, 0x4f, 0x00, 0x39, 0xfe, 0x77, 0x11
+
+
+[lwcam18a.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam18a.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey18a%
+
+
+[lwcam18a.Files.Ext]
+
+lwcam18a.sys
+
+
+[lwcam18a.Files.Inf]
+
+lwcam18a.inf
+
+
+[lwcam19a]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam19a.AddReg, lwcam19a.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam19a.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam19a.AddReg, lwcam19a.Matrix.AddReg
+CopyFiles=  lwcam19a.Files.Ext
+DriverVer=02/13/2018, 7.247.264.64894
+
+
+[lwcam19a.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam19a.Interface
+
+
+[lwcam19a.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam19a.Interface
+
+
+[lwcam19a.Interface]
+
+AddReg=lwcam19a.Intf.AddReg
+
+
+[lwcam19a.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_019a.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_019a.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey19a%
+
+
+[lwcam19a.NT.Services]
+
+AddService = USBlucam19a,0x00000002,lwcam19a.ServiceInstall
+
+
+[lwcam19a.ServiceInstall]
+
+DisplayName   = %Service19aDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam19a.sys
+
+
+[lwcam19a.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\019a",1,1, 0xea, 0x12, 0x23, 0xfb, 0xf2, 0x01, 0x1a, 0xff, 0x18, 0x12, 0xce, 0xfe, 0x07, 0x04, 0x9f, 0xf9, 0x59, 0x12
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\019a",2,1, 0x7f, 0x12, 0xba, 0xfb, 0xc7, 0x01, 0xf7, 0xfa, 0x9f, 0x14, 0x69, 0x00, 0x3e, 0x04, 0xca, 0xf9, 0xf7, 0x11
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\019a",5,1, 0xa7, 0x10, 0xd9, 0xfc, 0x7f, 0x02, 0x32, 0x02, 0x16, 0x0f, 0xb8, 0xfe, 0x86, 0x00, 0xa5, 0x00, 0xd4, 0x0e
+
+
+[lwcam19a.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam19a.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey19a%
+
+
+[lwcam19a.Files.Ext]
+
+lwcam19a.sys
+
+
+[lwcam19a.Files.Inf]
+
+lwcam19a.inf
+
+
+[lwcam18c]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam18c.AddReg, lwcam18c.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam18c.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam18c.AddReg, lwcam18c.Matrix.AddReg
+CopyFiles=  lwcam18c.Files.Ext
+DriverVer=02/13/2018, 5.247.125.28187
+
+
+[lwcam18c.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam18c.Interface
+
+
+[lwcam18c.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam18c.Interface
+
+
+[lwcam18c.Interface]
+
+AddReg=lwcam18c.Intf.AddReg
+
+
+[lwcam18c.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_018c.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_018c.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey18c%
+
+
+[lwcam18c.NT.Services]
+
+AddService = USBlwcam18c,0x00000002,lwcam18c.ServiceInstall
+
+
+[lwcam18c.ServiceInstall]
+
+DisplayName   = %Service18cDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam18c.sys
+
+
+[lwcam18c.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\018c",1,1, 0xa2, 0x13, 0x54, 0xf9, 0x09, 0x03, 0x38, 0x00, 0xdc, 0x11, 0xeb, 0xfd, 0x96, 0x01, 0x40, 0xfb, 0x2a, 0x13
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\018c",2,1, 0x89, 0x13, 0x0c, 0xf8, 0x6b, 0x04, 0x20, 0xfe, 0x08, 0x11, 0xd7, 0x00, 0xde, 0x01, 0x84, 0xfc, 0x9e, 0x11
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\018c",5,1, 0xfb, 0x1b, 0x88, 0xf0, 0x7c, 0x03, 0x01, 0xff, 0x84, 0x13, 0x7b, 0xfd, 0x01, 0x01, 0x38, 0xfc, 0xc7, 0x12
+
+
+[lwcam18c.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam18c.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey18c%
+
+
+[lwcam18c.Files.Ext]
+
+lwcam18c.sys
+
+
+[lwcam18c.Files.Inf]
+
+lwcam18c.inf
+
+
+[lwcam19b]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam19b.AddReg, lwcam19b.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam19b.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam19b.AddReg, lwcam19b.Matrix.AddReg
+CopyFiles=  lwcam19b.Files.Ext
+DriverVer=02/13/2018, 5.247.49.42507
+
+
+[lwcam19b.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam19b.Interface
+
+
+[lwcam19b.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam19b.Interface
+
+
+[lwcam19b.Interface]
+
+AddReg=lwcam19b.Intf.AddReg
+
+
+[lwcam19b.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_019b.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_019b.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey19b%
+
+
+[lwcam19b.NT.Services]
+
+AddService = USBlwcam19b,0x00000002,lwcam19b.ServiceInstall
+
+
+[lwcam19b.ServiceInstall]
+
+DisplayName   = %Service19bDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam19b.sys
+
+
+[lwcam19b.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\019b",1,1, 0xdb, 0x10, 0xc3, 0xfc, 0x61, 0x02, 0xd8, 0xff, 0x31, 0x10, 0xf8, 0xff, 0x9b, 0x03, 0x24, 0xfb, 0x41, 0x11
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\019b",2,1, 0x23, 0x13, 0x10, 0xfb, 0xcd, 0x01, 0x12, 0xfb, 0xa4, 0x14, 0x49, 0x00, 0x24, 0x04, 0xf5, 0xf8, 0xe6, 0x12
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\019b",3,1, 0x1d, 0x18, 0xf9, 0xfa, 0xea, 0xfc, 0xc0, 0xfb, 0xf6, 0x16, 0x4d, 0xfd, 0xd7, 0x00, 0x80, 0xfa, 0xa5, 0x14
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\019b",5,1, 0x59, 0x0f, 0x3e, 0xff, 0x69, 0x01, 0x36, 0x00, 0x56, 0x0e, 0x72, 0x01, 0x29, 0x00, 0xf0, 0x01, 0xe6, 0x0d
+
+
+[lwcam19b.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam19b.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey19b%
+
+
+[lwcam19b.Files.Ext]
+
+lwcam19b.sys
+
+
+[lwcam19b.Files.Inf]
+
+lwcam19b.inf
+
+
+[lwcam180]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam180.AddReg, lwcam180.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam180.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam180.AddReg, lwcam180.Matrix.AddReg
+CopyFiles=  lwcam180.Files.Ext
+DriverVer=02/13/2018, 5.247.153.39800
+
+
+[lwcam180.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam180.Interface
+
+
+[lwcam180.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam180.Interface
+
+
+[lwcam180.Interface]
+
+AddReg=lwcam180.Intf.AddReg
+
+
+[lwcam180.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_0180.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_0180.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey180%
+
+
+[lwcam180.NT.Services]
+
+AddService = USBlwcam180,0x00000002,lwcam180.ServiceInstall
+
+
+[lwcam180.ServiceInstall]
+
+DisplayName   = %Service180DisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam180.sys
+
+
+[lwcam180.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0180",1,1, 0xa7, 0x13, 0x5b, 0xfc, 0xff, 0xff, 0x7b, 0xfc, 0xe2, 0x17, 0xa3, 0xfb, 0xb8, 0x00, 0x0c, 0xf9, 0x3c, 0x16
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0180",2,1, 0x01, 0x14, 0xc5, 0xf9, 0x3a, 0x02, 0xec, 0xfb, 0x51, 0x16, 0xc3, 0xfd, 0x64, 0x09, 0x01, 0xf3, 0x9b, 0x13
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0180",3,1, 0x06, 0x1e, 0x70, 0xef, 0x8c, 0x02, 0x95, 0xff, 0xf2, 0x12, 0x7c, 0xfd, 0xbf, 0xf7, 0x63, 0x03, 0xde, 0x14
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0180",5,1, 0x80, 0x14, 0xea, 0xf3, 0x95, 0x07, 0x3f, 0xff, 0x24, 0x14, 0x9e, 0xfc, 0x38, 0x02, 0x2d, 0xf8, 0x9a, 0x15
+
+
+[lwcam180.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam180.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey180%
+
+
+[lwcam180.Files.Ext]
+
+lwcam180.sys
+
+
+[lwcam180.Files.Inf]
+
+lwcam180.inf
+
+
+[lwcam1cd]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam1cd.AddReg, lwcam1cd.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam1cd.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam1cd.AddReg, lwcam1cd.Matrix.AddReg
+CopyFiles=  lwcam1cd.Files.Ext
+DriverVer=02/13/2018, 5.247.55.55702
+
+
+[lwcam1cd.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam1cd.Interface
+
+
+[lwcam1cd.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam1cd.Interface
+
+
+[lwcam1cd.Interface]
+
+AddReg=lwcam1cd.Intf.AddReg
+
+
+[lwcam1cd.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_01cd.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_01cd.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey1cd%
+
+
+[lwcam1cd.NT.Services]
+
+AddService = USBlwcam1cd,0x00000002,lwcam1cd.ServiceInstall
+
+
+[lwcam1cd.ServiceInstall]
+
+DisplayName   = %Service1cdDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam1cd.sys
+
+
+[lwcam1cd.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01cd",1,1, 0x38, 0x1d, 0x16, 0xfb, 0xb2, 0xf7, 0x48, 0x03, 0x5f, 0x11, 0x59, 0xfb, 0xf7, 0xfc, 0x85, 0xfc, 0x85, 0x16
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01cd",2,1, 0x81, 0x2a, 0xb4, 0xe9, 0xcc, 0xfb, 0x8c, 0x03, 0x55, 0x11, 0x1e, 0xfb, 0x52, 0x0a, 0xe9, 0xeb, 0xc4, 0x19
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01cd",3,1, 0x55, 0x11, 0x5a, 0x05, 0x51, 0xf9, 0x10, 0x04, 0x42, 0x10, 0xae, 0xfb, 0x35, 0x03, 0xe0, 0xf8, 0xeb, 0x13
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01cd",5,1, 0xf8, 0x19, 0xb6, 0x00, 0x52, 0xf5, 0x30, 0x04, 0x32, 0x15, 0x9e, 0xf6, 0xa0, 0x00, 0xc4, 0x00, 0x9a, 0x0e
+
+
+[lwcam1cd.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam1cd.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey1cd%
+
+
+[lwcam1cd.Files.Ext]
+
+lwcam1cd.sys
+
+
+[lwcam1cd.Files.Inf]
+
+lwcam1cd.inf
+
+
+[lwcam1c8]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam1c8.AddReg, lwcam1c8.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam1c8.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam1c8.AddReg, lwcam1c8.Matrix.AddReg
+CopyFiles=  lwcam1c8.Files.Ext
+DriverVer=02/13/2018, 9.247.207.18043
+
+
+[lwcam1c8.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam1c8.Interface
+
+
+[lwcam1c8.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam1c8.Interface
+
+
+[lwcam1c8.Interface]
+
+AddReg=lwcam1c8.Intf.AddReg
+
+
+[lwcam1c8.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_01c8.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_01c8.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey1c8%
+
+
+[lwcam1c8.NT.Services]
+
+AddService = USBlwcam1c8,0x00000002,lwcam1c8.ServiceInstall
+
+
+[lwcam1c8.ServiceInstall]
+
+DisplayName   = %Service1c8DisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam1c8.sys
+
+
+[lwcam1c8.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c8",1,1, 0x33, 0x11, 0xc2, 0xfe, 0x0a, 0x00, 0x80, 0x01, 0x43, 0x10, 0x3d, 0xfe, 0x43, 0xff, 0x68, 0x02, 0x55, 0x0e
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c8",2,1, 0xa3, 0x12, 0x2b, 0xfd, 0x32, 0x00, 0x06, 0xfd, 0x49, 0x13, 0xb2, 0xff, 0x2c, 0xfb, 0xee, 0x01, 0xe5, 0x12
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c8",4,1, 0x87, 0x16, 0xea, 0xf7, 0x8f, 0x01, 0xc3, 0xfc, 0x89, 0x14, 0xb5, 0xfe, 0x9e, 0xfc, 0x1b, 0xf8, 0x47, 0x1b
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c8",5,1, 0x02, 0x15, 0x44, 0xfb, 0xbb, 0xff, 0xb9, 0x02, 0xe2, 0x13, 0x65, 0xf9, 0xe6, 0xfe, 0x9f, 0x00, 0x7b, 0x10
+
+
+[lwcam1c8.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam1c8.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey1c8%
+
+
+[lwcam1c8.Files.Ext]
+
+lwcam1c8.sys
+
+
+[lwcam1c8.Files.Inf]
+
+lwcam1c8.inf
+
+
+[lwcam1c7]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam1c7.AddReg, lwcam1c7.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam1c7.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam1c7.AddReg, lwcam1c7.Matrix.AddReg
+CopyFiles=  lwcam1c7.Files.Ext
+DriverVer=02/13/2018, 5.247.48.4475
+
+
+[lwcam1c7.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam1c7.Interface
+
+
+[lwcam1c7.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam1c7.Interface
+
+
+[lwcam1c7.Interface]
+
+AddReg=lwcam1c7.Intf.AddReg
+
+
+[lwcam1c7.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_01c7.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_01c7.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey1c7%
+
+
+[lwcam1c7.NT.Services]
+
+AddService = USBlwcam1c7,0x00000002,lwcam1c7.ServiceInstall
+
+
+[lwcam1c7.ServiceInstall]
+
+DisplayName   = %Service1c7DisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam1c7.sys
+
+
+[lwcam1c7.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c7",1,1, 0x33, 0x11, 0xc2, 0xfe, 0x0a, 0x00, 0x80, 0x01, 0x43, 0x10, 0x3d, 0xfe, 0x43, 0xff, 0x68, 0x02, 0x55, 0x0e
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c7",2,1, 0xa3, 0x12, 0x2b, 0xfd, 0x32, 0x00, 0x06, 0xfd, 0x49, 0x13, 0xb2, 0xff, 0x2c, 0xfb, 0xee, 0x01, 0xe5, 0x12
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c7",4,1, 0x87, 0x16, 0xea, 0xf7, 0x8f, 0x01, 0xc3, 0xfc, 0x89, 0x14, 0xb5, 0xfe, 0x9e, 0xfc, 0x1b, 0xf8, 0x47, 0x1b
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c7",5,1, 0x02, 0x15, 0x44, 0xfb, 0xbb, 0xff, 0xb9, 0x02, 0xe2, 0x13, 0x65, 0xf9, 0xe6, 0xfe, 0x9f, 0x00, 0x7b, 0x10
+
+
+[lwcam1c7.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam1c7.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey1c7%
+
+
+[lwcam1c7.Files.Ext]
+
+lwcam1c7.sys
+
+
+[lwcam1c7.Files.Inf]
+
+lwcam1c7.inf
+
+
+[lmcam284]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lmcam284.AddReg, lmcam284.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lmcam284.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lmcam284.AddReg, lmcam284.Matrix.AddReg
+CopyFiles=  lmcam284.Files.Ext
+DriverVer=02/13/2018, 5.247.50.17710
+
+
+[lmcam284.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lmcam284.Interface
+
+
+[lmcam284.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lmcam284.Interface
+
+
+[lmcam284.Interface]
+
+AddReg=lmcam284.Intf.AddReg
+
+
+[lmcam284.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_0284.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_0284.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey284%
+
+
+[lmcam284.NT.Services]
+
+AddService = USBlmcam284,0x00000002,lmcam284.ServiceInstall
+
+
+[lmcam284.ServiceInstall]
+
+DisplayName   = %lmcam284ServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lmcam284.sys
+
+
+[lmcam284.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0284",1,1, 0x66, 0x1d, 0x7a, 0xf5, 0x21, 0xfd, 0x90, 0x04, 0x3c, 0x0c, 0x33, 0xff, 0xf3, 0x01, 0x63, 0xfd, 0xaa, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0284",2,1, 0x45, 0x1d, 0xb1, 0xef, 0x09, 0x03, 0x8e, 0x00, 0xc5, 0x0f, 0xad, 0xff, 0xd4, 0xfe, 0x76, 0xfb, 0xb7, 0x15
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0284",3,1, 0x90, 0x1b, 0x74, 0xf3, 0xfb, 0x00, 0x79, 0xff, 0x14, 0x11, 0x75, 0xff, 0xa4, 0x00, 0xeb, 0xf2, 0x71, 0x1c
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0284",5,1, 0x0f, 0x23, 0x17, 0xf0, 0xda, 0xfc, 0x41, 0xff, 0x24, 0x1f, 0x9b, 0xf1, 0x8e, 0x00, 0xa4, 0xfd, 0xce, 0x11
+
+
+[lmcam284.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lmcam284.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey284%
+
+
+[lmcam284.Files.Ext]
+
+lmcam284.sys
+
+
+[lmcam284.Files.Inf]
+
+lmcam284.inf
+
+
+[lmcam28c]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lmcam28c.AddReg, lmcam28c.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lmcam28c.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lmcam28c.AddReg, lmcam28c.Matrix.AddReg
+CopyFiles=  lmcam28c.Files.Ext
+DriverVer=02/13/2018, 5.247.63.22229
+
+
+[lmcam28c.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lmcam28c.Interface
+
+
+[lmcam28c.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lmcam28c.Interface
+
+
+[lmcam28c.Interface]
+
+AddReg=lmcam28c.Intf.AddReg
+
+
+[lmcam28c.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_028c.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_028c.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey28c%
+
+
+[lmcam28c.NT.Services]
+
+AddService = USBlmcam28c,0x00000002,lmcam28c.ServiceInstall
+
+
+[lmcam28c.ServiceInstall]
+
+DisplayName   = %Service28cDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lmcam28c.sys
+
+
+[lmcam28c.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\028c",1,1, 0xa2, 0x13, 0x54, 0xf9, 0x09, 0x03, 0x38, 0x00, 0xdc, 0x11, 0xeb, 0xfd, 0x96, 0x01, 0x40, 0xfb, 0x2a, 0x13
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\028c",2,1, 0x89, 0x13, 0x0c, 0xf8, 0x6b, 0x04, 0x20, 0xfe, 0x08, 0x11, 0xd7, 0x00, 0xde, 0x01, 0x84, 0xfc, 0x9e, 0x11
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\028c",5,1, 0xfb, 0x1b, 0x88, 0xf0, 0x7c, 0x03, 0x01, 0xff, 0x84, 0x13, 0x7b, 0xfd, 0x01, 0x01, 0x38, 0xfc, 0xc7, 0x12
+
+
+[lmcam28c.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lmcam28c.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey28c%
+
+
+[lmcam28c.Files.Ext]
+
+lmcam28c.sys
+
+
+[lmcam28c.Files.Inf]
+
+lmcam28c.inf
+
+
+[lmcam29a]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lmcam29a.AddReg, lmcam29a.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lmcam29a.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lmcam29a.AddReg, lmcam29a.Matrix.AddReg
+CopyFiles=  lmcam29a.Files.Ext
+DriverVer=02/13/2018, 5.247.63.22229
+
+
+[lmcam29a.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lmcam29a.Interface
+
+
+[lmcam29a.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lmcam29a.Interface
+
+
+[lmcam29a.Interface]
+
+AddReg=lmcam29a.Intf.AddReg
+
+
+[lmcam29a.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_029a.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_029a.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey29a%
+
+
+[lmcam29a.NT.Services]
+
+AddService = USBlucam29a,0x00000002,lmcam29a.ServiceInstall
+
+
+[lmcam29a.ServiceInstall]
+
+DisplayName   = %Service29aDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lmcam29a.sys
+
+
+[lmcam29a.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\029a",1,1, 0xea, 0x12, 0x23, 0xfb, 0xf2, 0x01, 0x1a, 0xff, 0x18, 0x12, 0xce, 0xfe, 0x07, 0x04, 0x9f, 0xf9, 0x59, 0x12
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\029a",2,1, 0x7f, 0x12, 0xba, 0xfb, 0xc7, 0x01, 0xf7, 0xfa, 0x9f, 0x14, 0x69, 0x00, 0x3e, 0x04, 0xca, 0xf9, 0xf7, 0x11
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\029a",5,1, 0xa7, 0x10, 0xd9, 0xfc, 0x7f, 0x02, 0x32, 0x02, 0x16, 0x0f, 0xb8, 0xfe, 0x86, 0x00, 0xa5, 0x00, 0xd4, 0x0e
+
+
+[lmcam29a.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lmcam29a.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey29a%
+
+
+[lmcam29a.Files.Ext]
+
+lmcam29a.sys
+
+
+[lmcam29a.Files.Inf]
+
+lmcam29a.inf
+
+
+[lmcam28a]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lmcam28a.AddReg, lmcam28a.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lmcam28a.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lmcam28a.AddReg, lmcam28a.Matrix.AddReg
+CopyFiles=  lmcam28a.Files.Ext
+DriverVer=02/13/2018, 5.247.63.31033
+
+
+[lmcam28a.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lmcam28a.Interface
+
+
+[lmcam28a.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lmcam28a.Interface
+
+
+[lmcam28a.Interface]
+
+AddReg=lmcam28a.Intf.AddReg
+
+
+[lmcam28a.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_028a.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_028a.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey28a%
+
+
+[lmcam28a.NT.Services]
+
+AddService = USBlmcam28a,0x00000002,lmcam28a.ServiceInstall
+
+
+[lmcam28a.ServiceInstall]
+
+DisplayName   = %Service28aDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lmcam28a.sys
+
+
+[lmcam28a.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\028a",1,1, 0xb4, 0x11, 0x70, 0xfc, 0xdb, 0x01, 0x4b, 0xfe, 0xfb, 0x12, 0xba, 0xfe, 0x29, 0x05, 0xcb, 0xf4, 0x0b, 0x16
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\028a",2,1, 0x50, 0x15, 0x85, 0xf8, 0x2a, 0x02, 0xfb, 0xf8, 0xc7, 0x16, 0x3d, 0x00, 0x7f, 0x06, 0x60, 0xf4, 0x20, 0x15
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\028a",5,1, 0xa6, 0x14, 0xc6, 0xf7, 0x93, 0x03, 0xfa, 0xfe, 0x52, 0x11, 0xb4, 0xff, 0x4f, 0x00, 0x39, 0xfe, 0x77, 0x11
+
+
+[lmcam28a.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lmcam28a.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey28a%
+
+
+[lmcam28a.Files.Ext]
+
+lmcam28a.sys
+
+
+[lmcam28a.Files.Inf]
+
+lmcam28a.inf
+
+
+[lccam384]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lccam384.AddReg, lccam384.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lccam384.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lccam384.AddReg, lccam384.Matrix.AddReg
+CopyFiles=  lccam384.Files.Ext
+DriverVer=02/13/2018, 5.2.0.247
+
+
+[lccam384.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lccam384.Interface
+
+
+[lccam384.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lccam384.Interface
+
+
+[lccam384.Interface]
+
+AddReg=lccam384.Intf.AddReg
+
+
+[lccam384.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_0384.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_0384.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey384%
+
+
+[lccam384.NT.Services]
+
+AddService = USBLucam384,0x00000002,lccam384.ServiceInstall
+
+
+[lccam384.ServiceInstall]
+
+DisplayName   = %Lucam384ServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lccam384.sys
+
+
+[lccam384.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0384",1,1, 0x66, 0x1d, 0x7a, 0xf5, 0x21, 0xfd, 0x90, 0x04, 0x3c, 0x0c, 0x33, 0xff, 0xf3, 0x01, 0x63, 0xfd, 0xaa, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0384",2,1, 0x45, 0x1d, 0xb1, 0xef, 0x09, 0x03, 0x8e, 0x00, 0xc5, 0x0f, 0xad, 0xff, 0xd4, 0xfe, 0x76, 0xfb, 0xb7, 0x15
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0384",3,1, 0x90, 0x1b, 0x74, 0xf3, 0xfb, 0x00, 0x79, 0xff, 0x14, 0x11, 0x75, 0xff, 0xa4, 0x00, 0xeb, 0xf2, 0x71, 0x1c
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0384",5,1, 0x0f, 0x23, 0x17, 0xf0, 0xda, 0xfc, 0x41, 0xff, 0x24, 0x1f, 0x9b, 0xf1, 0x8e, 0x00, 0xa4, 0xfd, 0xce, 0x11
+HKLM,"Software\Lumenera Corporation\Lucam\Defaults\0384","Gain",1, 0x3d, 0x0a, 0xd7, 0xa3, 0x70, 0x3d, 0xf2, 0x3f
+HKLM,"Software\Lumenera Corporation\Lucam\Defaults\0384","WbU", 1, 0xae, 0x47, 0xe1, 0x7a, 0x14, 0xae, 0xe7, 0x3f
+HKLM,"Software\Lumenera Corporation\Lucam\Defaults\0384","WbV", 1, 0xc3, 0xf5, 0x28, 0x5c, 0x8f, 0xc2, 0xc5, 0xbf
+
+
+[lccam384.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lccam384.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey384%
+
+
+[lccam384.Files.Ext]
+
+lccam384.sys
+
+
+[lccam384.Files.Inf]
+
+lccam384.inf
+
+
+[lccam39e]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lccam39e.AddReg, Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lccam39e.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lccam39e.AddReg, Matrix.AddReg
+CopyFiles=  lccam39e.Files.Ext
+DriverVer=02/13/2018, 5.2.1.247
+
+
+[lccam39e.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lccam39e.Interface
+
+
+[lccam39e.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lccam39e.Interface
+
+
+[lccam39e.Interface]
+
+AddReg=lccam39e.Intf.AddReg
+
+
+[lccam39e.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_039e.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_009e.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey39e%
+
+
+[lccam39e.NT.Services]
+
+AddService = USBLucam39e,0x00000002,lccam39e.ServiceInstall
+
+
+[lccam39e.ServiceInstall]
+
+DisplayName   = %Lucam39eServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lccam39e.sys
+
+
+[Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\039e",1,1, 0x9e, 0x10, 0xc1, 0xfe, 0xa0, 0x00, 0x91, 0x01, 0xb8, 0x0d, 0xb6, 0x00, 0xed, 0x01, 0x04, 0xfe, 0x0e, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\039e",2,1, 0x01, 0x13, 0x4b, 0xfb, 0xb3, 0x01, 0xca, 0xfc, 0x9d, 0x13, 0x99, 0xff, 0xb4, 0x03, 0xa4, 0xf8, 0xa7, 0x13
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\039e",3,1, 0x90, 0x1b, 0x74, 0xf3, 0xfb, 0x00, 0x79, 0xff, 0x14, 0x11, 0x75, 0xff, 0xa4, 0x00, 0xeb, 0xf2, 0x71, 0x1c
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\039e",4,1, 0x31, 0x18, 0xc7, 0xf5, 0x07, 0x02, 0xe6, 0x00, 0xcb, 0x0f, 0x4e, 0xff, 0x84, 0x00, 0x27, 0xff, 0x55, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\039e",5,1, 0xeb, 0x1b, 0xf3, 0xf4, 0x23, 0xff, 0xa4, 0x00, 0x7a, 0x13, 0xe2, 0xfb, 0x12, 0xff, 0x80, 0xfe, 0x6e, 0x12
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\038b",1,1, 0xfc, 0x23, 0xd2, 0xf0, 0x32, 0xfb, 0x40, 0xfa, 0x57, 0x1d, 0x69, 0xf8, 0x54, 0x03, 0x92, 0xec, 0x1a, 0x20
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\038b",2,1, 0x92, 0x1e, 0xaf, 0xf1, 0xbf, 0xff, 0x94, 0xf4, 0xbd, 0x20, 0xb0, 0xfa, 0x6c, 0x08, 0x22, 0xdf, 0x72, 0x28
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\038b",3,1, 0x90, 0x1b, 0x74, 0xf3, 0xfb, 0x00, 0x79, 0xff, 0x14, 0x11, 0x75, 0xff, 0xa4, 0x00, 0xeb, 0xf2, 0x71, 0x1c
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\038b",4,1, 0x31, 0x18, 0xc7, 0xf5, 0x07, 0x02, 0xe6, 0x00, 0xcb, 0x0f, 0x4e, 0xff, 0x84, 0x00, 0x27, 0xff, 0x55, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\038b",5,1, 0xaa, 0x1c, 0x88, 0xf8, 0xce, 0xfa, 0x95, 0xfe, 0xaa, 0x15, 0xc2, 0xfb, 0xf8, 0xfd, 0xf3, 0xff, 0x15, 0x12
+
+
+[lccam39e.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lccam39e.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey39e%
+
+
+[lccam39e.Files.Ext]
+
+lccam39e.sys
+
+
+[lccam39e.Files.Inf]
+
+lccam39e.inf
+
+
+[lccam38d]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lccam38d.AddReg, lccam38d.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lccam38d.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lccam38d.AddReg, lccam38d.Matrix.AddReg
+CopyFiles=  lccam38d.Files.Ext
+DriverVer=02/13/2018, 5.2.0.247
+
+
+[lccam38d.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lccam38d.Interface
+
+
+[lccam38d.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lccam38d.Interface
+
+
+[lccam38d.Interface]
+
+AddReg=lccam38d.Intf.AddReg
+
+
+[lccam38d.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_038d.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_008d.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey38d%
+
+
+[lccam38d.NT.Services]
+
+AddService = USBLucam38d,0x00000002,lccam38d.ServiceInstall
+
+
+[lccam38d.ServiceInstall]
+
+DisplayName   = %Lucam38dServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lccam38d.sys
+
+
+[lccam38d.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\038d",1,1, 0x92, 0x11, 0x92, 0xfd, 0xdc, 0x00, 0xd7, 0x00, 0x58, 0x0e, 0xcf, 0x00, 0x26, 0x02, 0xf6, 0xfe, 0xe4, 0x0e
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\038d",2,1, 0x33, 0x19, 0xc9, 0xf1, 0x04, 0x05, 0x15, 0xfd, 0x8a, 0x14, 0x61, 0xfe, 0x8e, 0x02, 0x72, 0xf5, 0xff, 0x17
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\038d",3,1, 0x90, 0x1b, 0x74, 0xf3, 0xfb, 0x00, 0x79, 0xff, 0x14, 0x11, 0x75, 0xff, 0xa4, 0x00, 0xeb, 0xf2, 0x71, 0x1c
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\038d",4,1, 0x31, 0x18, 0xc7, 0xf5, 0x07, 0x02, 0xe6, 0x00, 0xcb, 0x0f, 0x4e, 0xff, 0x84, 0x00, 0x27, 0xff, 0x55, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\038d",5,1, 0x33, 0x32, 0x66, 0xe8, 0x67, 0xf5, 0x8f, 0xf9, 0x70, 0x23, 0x02, 0xf3, 0x05, 0xfb, 0xb1, 0xff, 0x4b, 0x15
+
+
+[lccam38d.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lccam38d.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey38d%
+
+
+[lccam38d.Files.Ext]
+
+lccam38d.sys
+
+
+[lccam38d.Files.Inf]
+
+lccam38d.inf
+
+
+[lccam38b]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lccam38b.AddReg, Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lccam38b.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lccam38b.AddReg, Matrix.AddReg
+CopyFiles=  lccam38b.Files.Ext
+DriverVer=02/13/2018, 5.2.0.247
+
+
+[lccam38b.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lccam38b.Interface
+
+
+[lccam38b.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lccam38b.Interface
+
+
+[lccam38b.Interface]
+
+AddReg=lccam38b.Intf.AddReg
+
+
+[lccam38b.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_038b.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_009e.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey38b%
+
+
+[lccam38b.NT.Services]
+
+AddService = USBLucam38b,0x00000002,lccam38b.ServiceInstall
+
+
+[lccam38b.ServiceInstall]
+
+DisplayName   = %Lucam38bServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lccam38b.sys
+
+
+[lccam38b.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lccam38b.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey38b%
+
+
+[lccam38b.Files.Ext]
+
+lccam38b.sys
+
+
+[lccam38b.Files.Inf]
+
+lccam38b.inf
+
+
+[lwcam1c5]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam1c5.AddReg, lwcam1c5.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam1c5.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam1c5.AddReg, lwcam1c5.Matrix.AddReg
+CopyFiles=  lwcam1c5.Files.Ext
+DriverVer=02/13/2018, 5.247.117.18886
+
+
+[lwcam1c5.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam1c5.Interface
+
+
+[lwcam1c5.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam1c5.Interface
+
+
+[lwcam1c5.Interface]
+
+AddReg=lwcam1c5.Intf.AddReg
+
+
+[lwcam1c5.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_01c5.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_01c5.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey1c5%
+
+
+[lwcam1c5.NT.Services]
+
+AddService = USBlwcam1c5,0x00000002,lwcam1c5.ServiceInstall
+
+
+[lwcam1c5.ServiceInstall]
+
+DisplayName   = %lwcam1c5ServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam1c5.sys
+
+
+[lwcam1c5.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c5",1,1, 0x58, 0x1e, 0x67, 0xf2, 0x41, 0xff, 0x71, 0xff, 0xed, 0x12, 0xa2, 0xfd, 0xda, 0x02, 0x93, 0xf6, 0x93, 0x16
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c5",2,1, 0x71, 0x18, 0x36, 0xf3, 0x59, 0x04, 0x44, 0xf4, 0x3b, 0x1b, 0x80, 0x00, 0x40, 0x02, 0xd0, 0xf6, 0xf0, 0x16
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c5",5,1, 0x5d, 0x31, 0x22, 0xe1, 0x81, 0xfd, 0x3b, 0xf6, 0x88, 0x20, 0x3e, 0xf9, 0x34, 0xfd, 0xe5, 0xfd, 0xe8, 0x14
+
+
+[lwcam1c5.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam1c5.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey1c5%
+
+
+[lwcam1c5.Files.Ext]
+
+lwcam1c5.sys
+
+
+[lwcam1c5.Files.Inf]
+
+lwcam1c5.inf
+
+
+[lucam099]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lucam099.AddReg, lucam099.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lucam099.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lucam099.AddReg, lucam099.Matrix.AddReg
+CopyFiles=  lucam099.Files.Ext
+DriverVer=02/13/2018, 9.247.47.61244
+
+
+[lucam099.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam099.Interface
+
+
+[lucam099.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lucam099.Interface
+
+
+[lucam099.Interface]
+
+AddReg=lucam099.Intf.AddReg
+
+
+[lucam099.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_0099.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_0099.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey099%
+
+
+[lucam099.NT.Services]
+
+AddService = USBLucam099,0x00000002,lucam099.ServiceInstall
+
+
+[lucam099.ServiceInstall]
+
+DisplayName   = %Lucam099ServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lucam099.sys
+
+
+[lucam099.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0099",1,1, 0x9e, 0x10, 0xc1, 0xfe, 0xa0, 0x00, 0x91, 0x01, 0xb8, 0x0d, 0xb6, 0x00, 0xed, 0x01, 0x04, 0xfe, 0x0e, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0099",2,1, 0x01, 0x13, 0x4b, 0xfb, 0xb3, 0x01, 0xca, 0xfc, 0x9d, 0x13, 0x99, 0xff, 0xb4, 0x03, 0xa4, 0xf8, 0xa7, 0x13
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0099",3,1, 0x90, 0x1b, 0x74, 0xf3, 0xfb, 0x00, 0x79, 0xff, 0x14, 0x11, 0x75, 0xff, 0xa4, 0x00, 0xeb, 0xf2, 0x71, 0x1c
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0099",4,1, 0x31, 0x18, 0xc7, 0xf5, 0x07, 0x02, 0xe6, 0x00, 0xcb, 0x0f, 0x4e, 0xff, 0x84, 0x00, 0x27, 0xff, 0x55, 0x10
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0099",5,1, 0xeb, 0x1b, 0xf3, 0xf4, 0x23, 0xff, 0xa4, 0x00, 0x7a, 0x13, 0xe2, 0xfb, 0x12, 0xff, 0x80, 0xfe, 0x6e, 0x12
+
+
+[lucam099.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lucam099.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey099%
+
+
+[lucam099.Files.Ext]
+
+lucam099.sys
+
+
+[lucam099.Files.Inf]
+
+lucam099.inf
+
+
+[lwcam1c9]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam1c9.AddReg, lwcam1c9.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam1c9.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam1c9.AddReg, lwcam1c9.Matrix.AddReg
+CopyFiles=  lwcam1c9.Files.Ext
+DriverVer=02/13/2018, 5.247.185.6468
+
+
+[lwcam1c9.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam1c9.Interface
+
+
+[lwcam1c9.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam1c9.Interface
+
+
+[lwcam1c9.Interface]
+
+AddReg=lwcam1c9.Intf.AddReg
+
+
+[lwcam1c9.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_01c9.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_01c9.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey1c9%
+
+
+[lwcam1c9.NT.Services]
+
+AddService = USBlwcam1c9,0x00000002,lwcam1c9.ServiceInstall
+
+
+[lwcam1c9.ServiceInstall]
+
+DisplayName   = %Service1c9DisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam1c9.sys
+
+
+[lwcam1c9.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c9",1,1, 0x40, 0x14, 0x30, 0xfd, 0x91, 0xfe, 0x74, 0xff, 0xfa, 0x11, 0x91, 0xfe, 0x74, 0xff, 0x30, 0xfd, 0x5c, 0x13
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c9",2,1, 0x96, 0x15, 0x02, 0xfb, 0x67, 0xff, 0xbe, 0xfc, 0x71, 0x14, 0xd5, 0xfe, 0x9d, 0xfa, 0x7a, 0x00, 0xe6, 0x14
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c9",3,1, 0x3a, 0x21, 0x7b, 0xee, 0x49, 0x00, 0x00, 0xfe, 0xdb, 0x15, 0x27, 0xfc, 0x69, 0xfd, 0xab, 0xfc, 0xec, 0x15
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c9",4,1, 0x87, 0x16, 0xea, 0xf7, 0x8f, 0x01, 0xc3, 0xfc, 0x89, 0x14, 0xb5, 0xfe, 0x9e, 0xfc, 0x1b, 0xf8, 0x47, 0x1b
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\01c9",5,1, 0x93, 0x16, 0x4a, 0xfa, 0x24, 0xff, 0xa5, 0xfc, 0xd3, 0x14, 0x8a, 0xfe, 0x6c, 0xfa, 0x00, 0x00, 0x93, 0x15
+
+
+[lwcam1c9.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam1c9.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey1c9%
+
+
+[lwcam1c9.Files.Ext]
+
+lwcam1c9.sys
+
+
+[lwcam1c9.Files.Inf]
+
+lwcam1c9.inf
+
+
+[lwcam49f]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam49f.AddReg, lwcam49f.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam49f.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam49f.AddReg, lwcam49f.Matrix.AddReg
+CopyFiles=  lwcam49f.Files.Ext
+DriverVer=02/13/2018, 5.247.68.37643
+
+
+[lwcam49f.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam49f.Interface
+
+
+[lwcam49f.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam49f.Interface
+
+
+[lwcam49f.Interface]
+
+AddReg=lwcam49f.Intf.AddReg
+
+
+[lwcam49f.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_049f.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_049f.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey49f%
+
+
+[lwcam49f.NT.Services]
+
+AddService = USBlwcam49f,0x00000002,lwcam49f.ServiceInstall
+
+
+[lwcam49f.ServiceInstall]
+
+DisplayName   = %lwcam49fServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam49f.sys
+
+
+[lwcam49f.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\049f",1,1, 0xcb, 0x1b, 0x53, 0xf6, 0xe2, 0xfd, 0xed, 0xf9, 0x96, 0x19, 0x7f, 0xfc, 0xf9, 0xfd, 0x45, 0xfc, 0xc3, 0x15
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\049f",2,1, 0xcb, 0x1c, 0x76, 0xf5, 0xbe, 0xfd, 0xd1, 0xf9, 0x96, 0x18, 0x9a, 0xfd, 0x69, 0xfe, 0xaa, 0xfc, 0xee, 0x14
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\049f",3,1, 0x97, 0x22, 0x4c, 0xed, 0x1c, 0x00, 0xd5, 0xfd, 0x60, 0x16, 0xcd, 0xfb, 0x38, 0xfd, 0x18, 0xfc, 0xb1, 0x16
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\049f",5,1, 0xcb, 0x1c, 0x76, 0xf5, 0xbe, 0xfd, 0xd1, 0xf9, 0x96, 0x18, 0x9a, 0xfd, 0x69, 0xfe, 0xaa, 0xfc, 0xee, 0x14
+
+
+[lwcam49f.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam49f.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey49f%
+
+
+[lwcam49f.Files.Ext]
+
+lwcam49f.sys
+
+
+[lwcam49f.Files.Inf]
+
+lwcam49f.inf
+
+
+[lwcam4ce]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam4ce.AddReg, lwcam4ce.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam4ce.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam4ce.AddReg, lwcam4ce.Matrix.AddReg
+CopyFiles=  lwcam4ce.Files.Ext
+DriverVer=02/13/2018, 6.247.135.21307
+
+
+[lwcam4ce.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam4ce.Interface
+
+
+[lwcam4ce.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam4ce.Interface
+
+
+[lwcam4ce.Interface]
+
+AddReg=lwcam4ce.Intf.AddReg
+
+
+[lwcam4ce.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_04ce.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_04ce.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey4ce%
+
+
+[lwcam4ce.NT.Services]
+
+AddService = USBlwcam4ce,0x00000002,lwcam4ce.ServiceInstall
+
+
+[lwcam4ce.ServiceInstall]
+
+DisplayName   = %Service4ceDisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam4ce.sys
+
+
+[lwcam4ce.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\04ce",1,1, 0x09, 0x16, 0x00, 0xfb, 0xfb, 0xfe, 0xf2, 0xfc, 0xf0, 0x18, 0x22, 0xfa, 0xaa, 0xfd, 0x98, 0xfd, 0xc0, 0x14
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\04ce",2,1, 0x5f, 0x17, 0x0f, 0xf8, 0x92, 0x00, 0x51, 0xfb, 0x2e, 0x19, 0x81, 0xfb, 0x85, 0xfc, 0xa0, 0xfa, 0xdc, 0x18
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\04ce",3,1, 0x7b, 0x18, 0xf5, 0xf8, 0x90, 0xfe, 0x9a, 0xfc, 0x37, 0x1a, 0x2f, 0xf9, 0x66, 0xfd, 0xd4, 0xfb, 0xc6, 0x16
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\04ce",5,1, 0x5f, 0x17, 0x0f, 0xf8, 0x92, 0x00, 0x51, 0xfb, 0x2e, 0x19, 0x81, 0xfb, 0x85, 0xfc, 0xa0, 0xfa, 0xdc, 0x18
+
+
+[lwcam4ce.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam4ce.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey4ce%
+
+
+[lwcam4ce.Files.Ext]
+
+lwcam4ce.sys
+
+
+[lwcam4ce.Files.Inf]
+
+lwcam4ce.inf
+
+
+[lmcam2c8]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lmcam2c8.AddReg, lmcam2c8.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lmcam2c8.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lmcam2c8.AddReg, lmcam2c8.Matrix.AddReg
+CopyFiles=  lmcam2c8.Files.Ext
+DriverVer=02/13/2018, 9.247.158.13886
+
+
+[lmcam2c8.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lmcam2c8.Interface
+
+
+[lmcam2c8.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lmcam2c8.Interface
+
+
+[lmcam2c8.Interface]
+
+AddReg=lmcam2c8.Intf.AddReg
+
+
+[lmcam2c8.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_02c8.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_02c8.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey2c8%
+
+
+[lmcam2c8.NT.Services]
+
+AddService = USBlmcam2c8,0x00000002,lmcam2c8.ServiceInstall
+
+
+[lmcam2c8.ServiceInstall]
+
+DisplayName   = %Service2c8DisplayName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lmcam2c8.sys
+
+
+[lmcam2c8.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\02c8",1,1, 0x33, 0x11, 0xc2, 0xfe, 0x0a, 0x00, 0x80, 0x01, 0x43, 0x10, 0x3d, 0xfe, 0x43, 0xff, 0x68, 0x02, 0x55, 0x0e
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\02c8",2,1, 0xa3, 0x12, 0x2b, 0xfd, 0x32, 0x00, 0x06, 0xfd, 0x49, 0x13, 0xb2, 0xff, 0x2c, 0xfb, 0xee, 0x01, 0xe5, 0x12
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\02c8",4,1, 0x87, 0x16, 0xea, 0xf7, 0x8f, 0x01, 0xc3, 0xfc, 0x89, 0x14, 0xb5, 0xfe, 0x9e, 0xfc, 0x1b, 0xf8, 0x47, 0x1b
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\02c8",5,1, 0x02, 0x15, 0x44, 0xfb, 0xbb, 0xff, 0xb9, 0x02, 0xe2, 0x13, 0x65, 0xf9, 0xe6, 0xfe, 0x9f, 0x00, 0x7b, 0x10
+
+
+[lmcam2c8.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lmcam2c8.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey2c8%
+
+
+[lmcam2c8.Files.Ext]
+
+lmcam2c8.sys
+
+
+[lmcam2c8.Files.Inf]
+
+lmcam2c8.inf
+
+
+[lwcam196]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf, dshowext.inf
+Needs=      KS.Registration,KSCAPTUR.Registration, DSHOWEXT.Registration
+AddReg=     lwcam196.AddReg, lwcam196.Matrix.AddReg
+DelFiles=   Lumenera.DelDrivers
+CopyFiles=  Stream.Files.Ext
+
+
+[lwcam196.NT]
+
+Include=    ks.inf, kscaptur.inf, ksfilter.inf
+Needs=      KS.Registration,KSCAPTUR.Registration.NT
+AddReg=     lwcam196.AddReg, lwcam196.Matrix.AddReg
+CopyFiles=  lwcam196.Files.Ext
+DriverVer=02/13/2018, 5.247.65.2052
+
+
+[lwcam196.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam196.Interface
+
+
+[lwcam196.NT.Interfaces]
+
+AddInterface=%KSCATEGORY_CAPTURE%,GLOBAL,lwcam196.Interface
+
+
+[lwcam196.Interface]
+
+AddReg=lwcam196.Intf.AddReg
+
+
+[lwcam196.Intf.AddReg]
+
+HKR,,CLSID,,%ProxyVCap.CLSID%
+HKR,,FriendlyName,,%USB\VID_1724&PID_0196.DeviceDesc%
+HKR,PageAliases,"{71F96467-78F3-11d0-A18C-00A0C9118956}",1,0xCE,34,0xA2,0xC4, 0x2f,13, 81,49, 0x98, 0xb5, 0x31, 0x4a, 0x0c, 0xf6, 0x54, 0x15
+HKR,,Description,,%USB\VID_1724&PID_0196.DeviceDesc%
+HKR,,LumeneraKey,,%LumenKey196%
+
+
+[lwcam196.NT.Services]
+
+AddService = USBLucam196,0x00000002,lwcam196.ServiceInstall
+
+
+[lwcam196.ServiceInstall]
+
+DisplayName   = %Lucam196ServiceName%
+ServiceType   = %SERVICE_KERNEL_DRIVER%
+StartType     = %SERVICE_DEMAND_START%
+ErrorControl  = %SERVICE_ERROR_NORMAL%
+ServiceBinary = %10%\System32\Drivers\lwcam196.sys
+
+
+[lwcam196.Matrix.AddReg]
+
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0196",1,1, 0x49, 0x2f, 0x95, 0xe4, 0x22, 0xfc, 0xbb, 0xfd, 0x62, 0x1e, 0xe4, 0xf3, 0x35, 0xf8, 0xcc, 0xed, 0x00, 0x2a
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0196",2,1, 0xab, 0x31, 0x27, 0xd8, 0x2e, 0x06, 0xe9, 0xf8, 0x06, 0x1a, 0x12, 0xfd, 0x63, 0x02, 0x29, 0xe7, 0x73, 0x26
+HKLM,"Software\Lumenera Corporation\Lucam\Matrices\0196",5,1, 0x58, 0x2f, 0x2d, 0xeb, 0x7c, 0xf5, 0x0a, 0xfc, 0xba, 0x18, 0x3d, 0xfb, 0x3c, 0xf4, 0x23, 0x02, 0xa0, 0x19
+HKLM,"Software\Lumenera Corporation\Lucam\Defaults\0196","DM",0x10001, 8
+
+
+[lwcam196.AddReg]
+
+HKR,,DevLoader,,*ntkern
+HKR,,NTMPDriver,,lwcam196.sys
+HKR,,PageOutWhenUnopened,3,01
+HKR,,PowerDownWhenUnopened,3,00
+HKR,,LumeneraKey,,%LumenKey196%
+
+
+[lwcam196.Files.Ext]
+
+lwcam196.sys
+
+
+[lwcam196.Files.Inf]
+
+lwcam196.inf
+
+
+[Luwinusb]
+
+Include = winusb.inf
+Needs   = WINUSB.NT
+
+
+[Luwinusb.NT]
+
+Include = winusb.inf
+Needs   = WINUSB.NT
+
+
+[Luwinusb.Services]
+
+Include = winusb.inf
+Needs   = WINUSB.NT.Services
+
+
+[Luwinusb.NT.Services]
+
+Include = winusb.inf
+Needs   = WINUSB.NT.Services
+
+
+[Luwinusb.HW]
+
+AddReg=Luwinusb.AddReg
+
+
+[Luwinusb.NT.HW]
+
+AddReg=Luwinusb.AddReg
+
+
+[Luwinusb.AddReg]
+
+HKR,,DeviceInterfaceGUIDs,0x10000,"{02F2110D-2F4D-4AE5-B928-FC58E8ED8435}"
+
+
+[Luwinusb.CoInstallers]
+
+AddReg=CoInstallers_AddReg
+CopyFiles=CoInstallers_CopyFiles
+
+
+[CoInstallers_AddReg]
+
+HKR,,CoInstallers32,0x00010000,"WdfCoInstaller01011.dll,WdfCoInstaller","WinUsbCoInstaller2.dll"
+
+
+[CoInstallers_CopyFiles]
+
+WinUsbCoInstaller2.dll
+WdfCoInstaller01011.dll
+
+
+[Strings]
+Lumenera="Lumenera"
+USB\VID_1724&PID_8092.DeviceDesc="Lumenera Unconfigured Device"
+luldr092.SvcDesc="Lumenera USB Loader Driver (luldr092.sys)"
+DiskName="Lumenera Installation Directory"
+USB\VID_1724&PID_8097.DeviceDesc="Lumenera Unconfigured Device"
+luldr097.SvcDesc="Lumenera USB Loader Driver (luldr097.sys)"
+USB\VID_1724&PID_8096.DeviceDesc="Lumenera Unconfigured Device"
+luldr096.SvcDesc="Lumenera USB Loader Driver (luldr096.sys)"
+USB\VID_1724&PID_809e.DeviceDesc="Lumenera Unconfigured Device"
+luldr09e.SvcDesc="Lumenera USB Loader Driver (luldr09e.sys)"
+USB\VID_1724&PID_808d.DeviceDesc="Lumenera Unconfigured Device"
+luldr08d.SvcDesc="Lumenera USB Loader Driver (luldr08d.sys)"
+USB\VID_1724&PID_808b.DeviceDesc="Lumenera Unconfigured Device"
+luldr08b.SvcDesc="Lumenera USB Loader Driver (luldr08b.sys)"
+USB\VID_1724&PID_8085.DeviceDesc="Lumenera Unconfigured Device"
+luldr085.SvcDesc="Lumenera USB Loader Driver (luldr085.sys)"
+USB\VID_1724&PID_809A.DeviceDesc="Lumenera Unconfigured Device"
+luldr09a.SvcDesc="Lumenera USB Loader Driver (luldr09a.sys)"
+USB\VID_1724&PID_808C.DeviceDesc="Lumenera Unconfigured Device"
+luldr08c.SvcDesc="Lumenera USB Loader Driver (luldr08c.sys)"
+USB\VID_1724&PID_808a.DeviceDesc="Lumenera Unconfigured Device"
+luldr08a.SvcDesc="Lumenera USB Loader Driver (luldr08a.sys)"
+USB\VID_1724&PID_809B.DeviceDesc="Lumenera Unconfigured Device"
+luldr09b.SvcDesc="Lumenera USB Loader Driver (luldr09b.sys)"
+USB\VID_1724&PID_8091.DeviceDesc="Lumenera Unconfigured Device"
+luldr091.SvcDesc="Lumenera USB Loader Driver (luldr091.sys)"
+USB\VID_1724&PID_8186.DeviceDesc="Lumenera Unconfigured Device"
+lwldr186.SvcDesc="Lumenera USB Loader Driver (lwldr186.sys)"
+USB\VID_1724&PID_818a.DeviceDesc="Lumenera Unconfigured Device"
+lwldr18a.SvcDesc="Lumenera USB Loader Driver (lwldr18a.sys)"
+USB\VID_1724&PID_819a.DeviceDesc="Lumenera Unconfigured Device"
+lwldr19a.SvcDesc="Lumenera USB Loader Driver (lwldr19a.sys)"
+USB\VID_1724&PID_818c.DeviceDesc="Lumenera Unconfigured Device"
+lwldr18c.SvcDesc="Lumenera USB Loader Driver (lwldr18c.sys)"
+USB\VID_1724&PID_819B.DeviceDesc="Lumenera Unconfigured Device"
+lwldr19b.SvcDesc="Lumenera USB Loader Driver (lwldr19b.sys)"
+USB\VID_1724&PID_8180.DeviceDesc="Lumenera Unconfigured Device"
+lwldr180.SvcDesc="Lumenera USB Loader Driver (lwldr180.sys)"
+USB\VID_1724&PID_81cd.DeviceDesc="Lumenera Unconfigured Device"
+lwldr1cd.SvcDesc="Lumenera USB Loader Driver (lwldr1cd.sys)"
+USB\VID_1724&PID_81c8.DeviceDesc="Lumenera Unconfigured Device"
+lwldr1c8.SvcDesc="Lumenera USB Loader Driver (lwldr1c8.sys)"
+USB\VID_1724&PID_81c7.DeviceDesc="Lumenera Unconfigured Device"
+lwldr1c7.SvcDesc="Lumenera USB Loader Driver (lwldr1c7.sys)"
+USB\VID_1724&PID_8284.DeviceDesc="Lumenera Unconfigured Device"
+lmldr284.SvcDesc="Lumenera USB Loader Driver (lmldr284.sys)"
+USB\VID_1724&PID_828c.DeviceDesc="Lumenera Unconfigured Device"
+lmldr28c.SvcDesc="Lumenera USB Loader Driver (lmldr28c.sys)"
+USB\VID_1724&PID_829a.DeviceDesc="Lumenera Unconfigured Device"
+lmldr29a.SvcDesc="Lumenera USB Loader Driver (lmldr29a.sys)"
+USB\VID_1724&PID_828a.DeviceDesc="Lumenera Unconfigured Device"
+lmldr28a.SvcDesc="Lumenera USB Loader Driver (lmldr28a.sys)"
+USB\VID_1724&PID_8384.DeviceDesc="Lumenera Unconfigured Device"
+lcldr384.SvcDesc="Lumenera USB Loader Driver (lcldr384.sys)"
+USB\VID_1724&PID_839e.DeviceDesc="Lumenera Unconfigured Device"
+lcldr39e.SvcDesc="Lumenera USB Loader Driver (lcldr39e.sys)"
+USB\VID_1724&PID_838d.DeviceDesc="Lumenera Unconfigured Device"
+lcldr38d.SvcDesc="Lumenera USB Loader Driver (lcldr38d.sys)"
+USB\VID_1724&PID_838b.DeviceDesc="Lumenera Unconfigured Device"
+lcldr38b.SvcDesc="Lumenera USB Loader Driver (lcldr38b.sys)"
+USB\VID_1724&PID_81c5.DeviceDesc="Lumenera Unconfigured Device"
+lwldr1c5.SvcDesc="Lumenera USB Loader Driver (lwldr1c5.sys)"
+USB\VID_1724&PID_8099.DeviceDesc="Lumenera Unconfigured Device"
+luldr099.SvcDesc="Lumenera USB Loader Driver (luldr099.sys)"
+USB\VID_1724&PID_81c9.DeviceDesc="Lumenera Unconfigured Device"
+lwldr1c9.SvcDesc="Lumenera USB Loader Driver (lwldr1c9.sys)"
+USB\VID_1724&PID_849f.DeviceDesc="Lumenera Unconfigured Device"
+lwldr49f.SvcDesc="Lumenera USB Loader Driver (lwldr49f.sys)"
+USB\VID_1724&PID_84ce.DeviceDesc="Lumenera Unconfigured Device"
+lwldr4ce.SvcDesc="Lumenera USB Loader Driver (lwldr4ce.sys)"
+USB\VID_1724&PID_82c8.DeviceDesc="Lumenera Unconfigured Device"
+lmldr2c8.SvcDesc="Lumenera USB Loader Driver (lmldr2c8.sys)"
+USB\VID_1724&PID_8196.DeviceDesc="Lumenera Unconfigured Device"
+lwldr196.SvcDesc="Lumenera USB Loader Driver (lwldr196.sys)"
+ProxyVCap.CLSID="{17CCA71B-ECD7-11D0-B908-00A0C9223196}"
+KSCATEGORY_CAPTURE="{65E8773D-8F56-11D0-A3B9-00A0C9223196}"
+SERVICE_KERNEL_DRIVER=1
+SERVICE_DEMAND_START=3
+SERVICE_ERROR_NORMAL=1
+LumeneraScientific="Lumenera Scientific"
+LtcamusbServiceName="Lumenera USB 3.0 Camera (Ltcamusb)"
+USB\VID_1724&PID_0604.DeviceDesc="Lt420 USB 3.0 Camera"
+USB\VID_1724&PID_0602.DeviceDesc="Lt220 USB 3.0 Camera"
+USB\VID_1724&PID_0613&REV_0004.DeviceDesc="Lt364 USB 3.0 Camera"
+USB\VID_1724&PID_0613.DeviceDesc="Lt360 USB 3.0 Camera"
+USB\VID_1724&PID_0616.DeviceDesc="Lt660 USB 3.0 Camera"
+USB\VID_1724&PID_0619.DeviceDesc="Lt960 USB 3.0 Camera"
+USB\VID_1724&PID_061c.DeviceDesc="Lt1260 USB 3.0 Camera"
+USB\VID_1724&PID_0630.DeviceDesc="Lt16059H USB 3.0 Camera"
+USB\VID_1724&PID_0631.DeviceDesc="Lt29059 USB 3.0 Camera"
+USB\VID_1724&PID_0645.DeviceDesc="Lt545 USB 3.0 Camera"
+USB\VID_1724&PID_0643.DeviceDesc="Lt345 USB 3.0 Camera"
+USB\VID_1724&PID_0649.DeviceDesc="Lt945 USB 3.0 Camera"
+USB\VID_1724&PID_064c.DeviceDesc="Lt1245 USB 3.0 Camera"
+USB\VID_1724&PID_0711.DeviceDesc="INFINITY3S-1UR USB 3.0 Camera"
+USB\VID_1724&PID_0713.DeviceDesc="INFINITY3-3UR USB 3.0 Camera"
+USB\VID_1724&PID_0716.DeviceDesc="INFINITY3-6UR USB 3.0 Camera"
+USB\VID_1724&PID_0719.DeviceDesc="INFINITY3-9UR USB 3.0 Camera"
+USB\VID_1724&PID_071c.DeviceDesc="INFINITY3-12UR USB 3.0 Camera"
+USB\LumeneraGeneric.DeviceDesc="Lumenera USB 3.0 Camera"
+USB\InfinityGeneric.DeviceDesc="INFINITY USB 3.0 Camera"
+LumenKeyUsb="lucam"
+ltcamusbDriverName="Lt USB 3.0 Camera"
+ltcamusbDriverDesc="Lumenera Lt USB 3.0 Camera"
+PropPage_LuCustom="Lumenera Custom Property Page"
+PropPage_LuCustom2="Lumenera Custom Property Page #2"
+PropPage_LuStrCfg="Lumenera Stream Config Property Page"
+Service092DisplayName="Lumenera Mega 092 Camera"
+USB\VID_1724&PID_0092.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey092="lucam092"
+USB\VID_1724&PID_0097.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey097="lucam097"
+Lucam096ServiceName="Lumenera Mega 96 Camera"
+USB\VID_1724&PID_0096.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey096="lucam096"
+Lucam09eServiceName="Lumenera Camera (09e)"
+USB\VID_1724&PID_009e.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey09e="lucam09e"
+USB\VID_1724&PID_008d.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey08d="lucam08d"
+USB\VID_1724&PID_008b.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey08b="lucam08b"
+Lucam085ServiceName="Lumenera Camera (085)"
+USB\VID_1724&PID_0085.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey085="lucam085"
+Service09aDisplayName="Lumenera Mega 09a Camera"
+USB\VID_1724&PID_009a.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey09a="lucam09a"
+Service08cDisplayName="Lumenera Mega 08c Camera"
+USB\VID_1724&PID_008c.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey08c="lucam08c"
+Service08aDisplayName="Lumenera Mega 08a Camera"
+USB\VID_1724&PID_008a.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey08a="lucam08a"
+Service09bDisplayName="Lumenera Mega 09b Camera"
+USB\VID_1724&PID_009b.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey09b="lucam09b"
+Lucam091ServiceName="Lumenera 0091 Driver"
+USB\VID_1724&PID_0091.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey091="lucam091"
+Lucam186ServiceName="Lumenera Camera (186)"
+USB\VID_1724&PID_0186.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey186="lucam186"
+Service18aDisplayName="Lumenera 18a Camera"
+USB\VID_1724&PID_018a.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey18a="lucam18a"
+Service19aDisplayName="Lumenera 19a Camera"
+USB\VID_1724&PID_019a.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey19a="lucam19a"
+Service18cDisplayName="Lumenera Camera Serivce 18c"
+USB\VID_1724&PID_018c.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey18c="lucam18c"
+Service19bDisplayName="Lumenera 19b Camera"
+USB\VID_1724&PID_019b.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey19b="lucam19b"
+Service180DisplayName="Lumenera 180 Camera"
+USB\VID_1724&PID_0180.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey180="lucam180"
+Service1cdDisplayName="Lumenera 1cd Camera"
+USB\VID_1724&PID_01cd.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey1cd="lucam1cd"
+Service1c8DisplayName="Lumenera 1c8 Camera"
+USB\VID_1724&PID_01c8.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey1c8="lucam1c8"
+Service1c7DisplayName="Lumenera 1c7 Camera"
+USB\VID_1724&PID_01c7.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey1c7="lucam1c7"
+lmcam284ServiceName="Lumenera Camera (284)"
+USB\VID_1724&PID_0284.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey284="lucam284"
+Service28cDisplayName="Lumenera Camera Serivce 28c"
+USB\VID_1724&PID_028c.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey28c="lucam28c"
+Service29aDisplayName="Lumenera 29a Camera"
+USB\VID_1724&PID_029a.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey29a="lucam29a"
+Service28aDisplayName="Lumenera 28a Camera"
+USB\VID_1724&PID_028a.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey28a="lucam28a"
+Lucam384ServiceName="Lumenera USB 2.0 Camera (384)"
+USB\VID_1724&PID_0384.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey384="lucam384"
+Lucam39eServiceName="Lumenera USB 2.0 Camera (39e)"
+USB\VID_1724&PID_039e.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey39e="lucam39e"
+Lucam38dServiceName="Lumenera USB 2.0 Camera (38d)"
+USB\VID_1724&PID_038d.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey38d="lucam38d"
+Lucam38bServiceName="Lumenera USB 2.0 Camera (38b)"
+USB\VID_1724&PID_038b.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey38b="lucam38b"
+lwcam1c5ServiceName="Lumenera Camera (1c5)"
+USB\VID_1724&PID_01c5.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey1c5="lucam1c5"
+Lucam099ServiceName="Lumenera Camera (099)"
+USB\VID_1724&PID_0099.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey099="lucam099"
+Service1c9DisplayName="Lumenera 1c9 Camera"
+USB\VID_1724&PID_01c9.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey1c9="lucam1c9"
+lwcam49fServiceName="Lumenera Camera (49f)"
+USB\VID_1724&PID_049f.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey49f="lucam49f"
+Service4ceDisplayName="Lumenera Camera Serivce 4ce"
+USB\VID_1724&PID_04ce.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey4ce="lucam4ce"
+Service2c8DisplayName="Lumenera 2c8 Camera"
+USB\VID_1724&PID_02c8.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey2c8="lucam2c8"
+Lucam196ServiceName="Lumenera Camera (196)"
+USB\VID_1724&PID_0196.DeviceDesc="Lumenera USB 2.0 Camera"
+LumenKey196="lucam196"
+REG_MULTI_SZ = 0x00010000
+LumeneraGenericU3VCamera="Lumenera USB3Vision Camera (winusb)"
+USB\VID_1724&PID_1602.Desc="Lt220 USB3Vision Camera"
+USB\VID_1724&PID_1604.Desc="Lt420 USB3Vision Camera"
+USB\VID_1724&PID_1613.Desc="Lt360 USB3Vision Camera"
+USB\VID_1724&PID_1616.Desc="Lt660 USB3Vision Camera"
+USB\VID_1724&PID_1619.Desc="Lt960 USB3Vision Camera"
+USB\VID_1724&PID_161c.Desc="Lt1260 USB3Vision Camera"
+USB\VID_1724&PID_1630.Desc="Lt16050 USB3Vision Camera"
+USB\VID_1724&PID_1631.Desc="Lt29050 USB3Vision Camera"
+USB\VID_1724&PID_1643.Desc="Lt340 USB3Vision Camera"
+USB\VID_1724&PID_1645.Desc="Lt540 USB3Vision Camera"
+USB\VID_1724&PID_1649.Desc="Lt940 USB3Vision Camera"
+USB\VID_1724&PID_164c.Desc="Lt1240 USB3Vision Camera"
